@@ -9,8 +9,9 @@ const fs = require('fs')
 		const data = await fs.readFileSync(file, 'utf8')
 
 		try {
-			const jsonFiles = JSON.parse(data)
-			for (const service of jsonFiles.services) {
+			const jsonFile = JSON.parse(data)
+			const finalRecord = []
+			for (const service of jsonFile.services) {
 				const browser = await puppeteer.launch({ headless: false })
 				const page = await browser.newPage()
 				console.log('service.link :>> ', service.link)
@@ -19,30 +20,33 @@ const fs = require('fs')
 				const data = await page.evaluate(() => {
 					const titleElements = document.querySelector('h2.title')
 					const subtitleElements = document.querySelector('h3.subtitle')
-					const textLinkElement = document.querySelector('.text-links')
-					const ulList = document.querySelector('ul.separated-list-x')
-					const text = textLinkElement.innerHTML
-						.replace(/<[^>]*>/g, '') // Remove HTML tags
-						.replace(/\n|\r/g, '') // Remove newlines and carriage returns
-						.trim()
-					const ulListUl = ulList.innerHTML
-						.replace(/<[^>]*>/g, '') // Remove HTML tags
-						.replace(/\n|\r/g, '') // Remove newlines and carriage returns
-						.trim()
-					// const text = textLinkElement.textContent.trim()
+					const textLinkElement = document.querySelector('.text-links') ?? document.querySelector('.markdown-content')
+					const ulList = document.querySelector('a.btn.btn--hero.btn--success.track-event.is-success')
+					let text = ''
+					if (textLinkElement) {
+						text = textLinkElement.innerHTML
+							.replace(/<[^>]*>/g, '') // Remove HTML tags
+							.replace(/\n|\r/g, '') // Remove newlines and carriage returns
+							.trim()
+					}
 
 					const title = titleElements.textContent.trim()
 					const subtitle = subtitleElements.textContent.trim()
-					return { title, subtitle, text, ulListUl }
+					var url = new URL(ulList.href)
+					return { title, subtitle, text, website: url.protocol + '//' + url.hostname }
 				})
+				await browser.close()
 
 				console.log('data :>> ', data)
+				finalRecord.push(data)
 				// const jsonData = JSON.stringify(data, null, 2)
 				// fs.writeFileSync('shopify-alternatives.json', jsonData, 'utf8')
 				// console.log('Data saved to shopify-alternatives.json')
-
-				await browser.close()
 			}
+
+			const jsonData = JSON.stringify(finalRecord, null, 2)
+			fs.writeFileSync('all-services.json', jsonData, 'utf8')
+			console.log('Data saved to all-services.json')
 		} catch (err) {
 			console.error(`Error parsing JSON in file ${file}:`, err)
 		}

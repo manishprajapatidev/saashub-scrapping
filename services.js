@@ -39,7 +39,7 @@ const fs = require('fs')
 				const anchorlements = document.querySelectorAll('ol.services-list li h3.title a')
 
 				for (let i = 0; i < anchorlements.length; i++) {
-					const text = anchorlements[i].textContent.trim()
+					const text = anchorlements[i].textContent.trim().replace(/✓\n/g, '')
 					const link = anchorlements[i].href.trim()
 					UrlArray.push({ text, link })
 				}

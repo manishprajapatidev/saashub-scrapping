@@ -1,1041 +1,1041 @@
 {
-	"categoryName": "Project Management",
-	"services": [
-		{
-			"text": "Asana",
-			"link": "https://www.saashub.com/asana-alternatives"
-		},
-		{
-			"text": "Trello",
-			"link": "https://www.saashub.com/trello-alternatives"
-		},
-		{
-			"text": "✓\nHive",
-			"link": "https://www.saashub.com/hive?ref=featured&src="
-		},
-		{
-			"text": "Basecamp",
-			"link": "https://www.saashub.com/basecamp-alternatives"
-		},
-		{
-			"text": "Wrike",
-			"link": "https://www.saashub.com/wrike-alternatives"
-		},
-		{
-			"text": "✓\nmonday.com",
-			"link": "https://www.saashub.com/monday-alternatives"
-		},
-		{
-			"text": "Jira",
-			"link": "https://www.saashub.com/jira-alternatives"
-		},
-		{
-			"text": "✓\nSmartsheet",
-			"link": "https://www.saashub.com/smartsheet-alternatives"
-		},
-		{
-			"text": "Redmine",
-			"link": "https://www.saashub.com/redmine-alternatives"
-		},
-		{
-			"text": "Todoist",
-			"link": "https://www.saashub.com/todoist-alternatives"
-		},
-		{
-			"text": "✓\nClickUp",
-			"link": "https://www.saashub.com/clickup-alternatives"
-		},
-		{
-			"text": "Teamwork",
-			"link": "https://www.saashub.com/teamwork-alternatives"
-		},
-		{
-			"text": "Airtable",
-			"link": "https://www.saashub.com/airtable-alternatives"
-		},
-		{
-			"text": "Teamgantt",
-			"link": "https://www.saashub.com/teamgantt-alternatives"
-		},
-		{
-			"text": "Slack",
-			"link": "https://www.saashub.com/slack-alternatives"
-		},
-		{
-			"text": "Bitrix24",
-			"link": "https://www.saashub.com/bitrix24-alternatives"
-		},
-		{
-			"text": "✓\nLabourly",
-			"link": "https://www.saashub.com/labourly?ref=featured&src=list"
-		},
-		{
-			"text": "Chess.com",
-			"link": "https://www.saashub.com/chess-com-alternatives"
-		},
-		{
-			"text": "Zenkit",
-			"link": "https://www.saashub.com/zenkit-alternatives"
-		},
-		{
-			"text": "Lichess",
-			"link": "https://www.saashub.com/lichess-alternatives"
-		},
-		{
-			"text": "Procore",
-			"link": "https://www.saashub.com/procore-alternatives"
-		},
-		{
-			"text": "Paymo",
-			"link": "https://www.saashub.com/paymo-alternatives"
-		},
-		{
-			"text": "Active Collab",
-			"link": "https://www.saashub.com/active-collab-alternatives"
-		},
-		{
-			"text": "AODocs",
-			"link": "https://www.saashub.com/aodocs-alternatives"
-		},
-		{
-			"text": "Clubhouse",
-			"link": "https://www.saashub.com/clubhouse-alternatives"
-		},
-		{
-			"text": "QuickBase",
-			"link": "https://www.saashub.com/quickbase-alternatives"
-		},
-		{
-			"text": "OpenKM",
-			"link": "https://www.saashub.com/openkm-alternatives"
-		},
-		{
-			"text": "Docomotion",
-			"link": "https://www.saashub.com/docomotion-alternatives"
-		},
-		{
-			"text": "Zoho Docs",
-			"link": "https://www.saashub.com/zoho-docs-alternatives"
-		},
-		{
-			"text": "infoRouter",
-			"link": "https://www.saashub.com/inforouter-alternatives"
-		},
-		{
-			"text": "✓\nDontPayFull",
-			"link": "https://www.saashub.com/dontpayfull?ref=featured&src=list"
-		},
-		{
-			"text": "Notion",
-			"link": "https://www.saashub.com/notion-alternatives"
-		},
-		{
-			"text": "✓\nBreeze",
-			"link": "https://www.saashub.com/breeze-alternatives"
-		},
-		{
-			"text": "Microsoft Teams",
-			"link": "https://www.saashub.com/microsoft-teams-alternatives"
-		},
-		{
-			"text": "Appian",
-			"link": "https://www.saashub.com/appian-alternatives"
-		},
-		{
-			"text": "Zoho Creator",
-			"link": "https://www.saashub.com/zoho-creator-alternatives"
-		},
-		{
-			"text": "SPDocKit",
-			"link": "https://www.saashub.com/spdockit-alternatives"
-		},
-		{
-			"text": "PriceCost",
-			"link": "https://www.saashub.com/pricecost-alternatives"
-		},
-		{
-			"text": "Quire",
-			"link": "https://www.saashub.com/quire-alternatives"
-		},
-		{
-			"text": "GitLab",
-			"link": "https://www.saashub.com/gitlab-alternatives"
-		},
-		{
-			"text": "✓\nHive",
-			"link": "https://www.saashub.com/hive-alternatives"
-		},
-		{
-			"text": "Workflowy",
-			"link": "https://www.saashub.com/workflowy-alternatives"
-		},
-		{
-			"text": "Workfront",
-			"link": "https://www.saashub.com/workfront-alternatives"
-		},
-		{
-			"text": "SmartVault",
-			"link": "https://www.saashub.com/smartvault-alternatives"
-		},
-		{
-			"text": "✓\nDontPayFull",
-			"link": "https://www.saashub.com/dontpayfull?ref=featured&src=list"
-		},
-		{
-			"text": "ProWorkflow",
-			"link": "https://www.saashub.com/proworkflow-alternatives"
-		},
-		{
-			"text": "Remember The Milk",
-			"link": "https://www.saashub.com/remember-the-milk-alternatives"
-		},
-		{
-			"text": "Harvest",
-			"link": "https://www.saashub.com/harvest-alternatives"
-		},
-		{
-			"text": "Jama Connect",
-			"link": "https://www.saashub.com/jama-connect-alternatives"
-		},
-		{
-			"text": "✓\nCamunda",
-			"link": "https://www.saashub.com/camunda-alternatives"
-		},
-		{
-			"text": "Kissflow",
-			"link": "https://www.saashub.com/kissflow-alternatives"
-		},
-		{
-			"text": "Toggl",
-			"link": "https://www.saashub.com/toggl-alternatives"
-		},
-		{
-			"text": "PlanSwift",
-			"link": "https://www.saashub.com/planswift-alternatives"
-		},
-		{
-			"text": "Confluence",
-			"link": "https://www.saashub.com/confluence-alternatives"
-		},
-		{
-			"text": "PaperVision Enterprise",
-			"link": "https://www.saashub.com/papervision-enterprise-alternatives"
-		},
-		{
-			"text": "HyperOffice",
-			"link": "https://www.saashub.com/hyperoffice-alternatives"
-		},
-		{
-			"text": "Evernote",
-			"link": "https://www.saashub.com/evernote-alternatives"
-		},
-		{
-			"text": "MINDBODY",
-			"link": "https://www.saashub.com/mindbody-alternatives"
-		},
-		{
-			"text": "✓\nSysAid",
-			"link": "https://www.saashub.com/sysaid?ref=featured&src=list"
-		},
-		{
-			"text": "Quip",
-			"link": "https://www.saashub.com/quip-alternatives"
-		},
-		{
-			"text": "RingCentral Video",
-			"link": "https://www.saashub.com/ringcentral-video-alternatives"
-		},
-		{
-			"text": "Flow",
-			"link": "https://www.saashub.com/flow-alternatives"
-		},
-		{
-			"text": "GitHub",
-			"link": "https://www.saashub.com/github-alternatives"
-		},
-		{
-			"text": "Mavenlink",
-			"link": "https://www.saashub.com/mavenlink-alternatives"
-		},
-		{
-			"text": "AutoEDMS",
-			"link": "https://www.saashub.com/autoedms-alternatives"
-		},
-		{
-			"text": "Things",
-			"link": "https://www.saashub.com/things-alternatives"
-		},
-		{
-			"text": "Estimaster2",
-			"link": "https://www.saashub.com/estimaster2-alternatives"
-		},
-		{
-			"text": "Kintone",
-			"link": "https://www.saashub.com/kintone-alternatives"
-		},
-		{
-			"text": "Corecon",
-			"link": "https://www.saashub.com/corecon-alternatives"
-		},
-		{
-			"text": "Freshservice",
-			"link": "https://www.saashub.com/freshservice-alternatives"
-		},
-		{
-			"text": "MS SharePoint",
-			"link": "https://www.saashub.com/ms-sharepoint-alternatives"
-		},
-		{
-			"text": "Taskade",
-			"link": "https://www.saashub.com/taskade-alternatives"
-		},
-		{
-			"text": "✓\nProject Burndown",
-			"link": "https://www.saashub.com/project-burndown?ref=featured&src=list"
-		},
-		{
-			"text": "Bizagi",
-			"link": "https://www.saashub.com/bizagi-alternatives"
-		},
-		{
-			"text": "KRYSTAL - Document Management System",
-			"link": "https://www.saashub.com/krystal-document-management-system-alternatives"
-		},
-		{
-			"text": "Podio",
-			"link": "https://www.saashub.com/podio-alternatives"
-		},
-		{
-			"text": "Creativity 365",
-			"link": "https://www.saashub.com/creativity-365-alternatives"
-		},
-		{
-			"text": "productboard",
-			"link": "https://www.saashub.com/productboard-alternatives"
-		},
-		{
-			"text": "Autodesk BIM 360",
-			"link": "https://www.saashub.com/autodesk-bim-360-alternatives"
-		},
-		{
-			"text": "Plutio",
-			"link": "https://www.saashub.com/plutio-alternatives"
-		},
-		{
-			"text": "TickTick",
-			"link": "https://www.saashub.com/ticktick-alternatives"
-		},
-		{
-			"text": "Infolinx Records Management",
-			"link": "https://www.saashub.com/infolinx-records-management-alternatives"
-		},
-		{
-			"text": "OmniPlan",
-			"link": "https://www.saashub.com/omniplan-alternatives"
-		},
-		{
-			"text": "Microsoft Project",
-			"link": "https://www.saashub.com/microsoft-project-alternatives"
-		},
-		{
-			"text": "TargetProcess",
-			"link": "https://www.saashub.com/targetprocess-alternatives"
-		},
-		{
-			"text": "LeanKit",
-			"link": "https://www.saashub.com/leankit-alternatives"
-		},
-		{
-			"text": "✓\nManageEngine ADAudit",
-			"link": "https://www.saashub.com/manageengine-adaudit?ref=featured&src=list"
-		},
-		{
-			"text": "SquidHub",
-			"link": "https://www.saashub.com/squidhub-alternatives"
-		},
-		{
-			"text": "BuilderTREND",
-			"link": "https://www.saashub.com/buildertrend-alternatives"
-		},
-		{
-			"text": "Ninox",
-			"link": "https://www.saashub.com/ninox-alternatives"
-		},
-		{
-			"text": "Cleopatra Enterprise",
-			"link": "https://www.saashub.com/cleopatra-enterprise-alternatives"
-		},
-		{
-			"text": "DocXellent",
-			"link": "https://www.saashub.com/docxellent-alternatives"
-		},
-		{
-			"text": "Time and Material Plus",
-			"link": "https://www.saashub.com/time-and-material-plus-alternatives"
-		},
-		{
-			"text": "Wekan",
-			"link": "https://www.saashub.com/wekan-alternatives"
-		},
-		{
-			"text": "Teamgrid",
-			"link": "https://www.saashub.com/teamgrid-alternatives"
-		},
-		{
-			"text": "Ideagen Coruson",
-			"link": "https://www.saashub.com/ideagen-coruson-alternatives"
-		},
-		{
-			"text": "SAP GRC",
-			"link": "https://www.saashub.com/sap-grc-alternatives"
-		},
-		{
-			"text": "PlanGrid",
-			"link": "https://www.saashub.com/plangrid-alternatives"
-		},
-		{
-			"text": "Meistertask",
-			"link": "https://www.saashub.com/meistertask-alternatives"
-		},
-		{
-			"text": "Clarizen",
-			"link": "https://www.saashub.com/clarizen-alternatives"
-		},
-		{
-			"text": "✓\nProject Burndown",
-			"link": "https://www.saashub.com/project-burndown?ref=featured&src=list"
-		},
-		{
-			"text": "Pivotal Tracker",
-			"link": "https://www.saashub.com/pivotal-tracker-alternatives"
-		},
-		{
-			"text": "CogniDox",
-			"link": "https://www.saashub.com/cognidox-alternatives"
-		},
-		{
-			"text": "ONLYOFFICE",
-			"link": "https://www.saashub.com/onlyoffice-alternatives"
-		},
-		{
-			"text": "Nifty",
-			"link": "https://www.saashub.com/nifty-alternatives"
-		},
-		{
-			"text": "DESTINI Estimator",
-			"link": "https://www.saashub.com/destini-estimator-alternatives"
-		},
-		{
-			"text": "Miro",
-			"link": "https://www.saashub.com/miro-alternatives"
-		},
-		{
-			"text": "BigTime.net",
-			"link": "https://www.saashub.com/bigtime-net-alternatives"
-		},
-		{
-			"text": "LogikCull",
-			"link": "https://www.saashub.com/logikcull-alternatives"
-		},
-		{
-			"text": "Scoop Solar",
-			"link": "https://www.saashub.com/scoop-solar-alternatives"
-		},
-		{
-			"text": "GanttProject",
-			"link": "https://www.saashub.com/ganttproject-alternatives"
-		},
-		{
-			"text": "Oracle Primavera",
-			"link": "https://www.saashub.com/oracle-primavera-alternatives"
-		},
-		{
-			"text": "K2",
-			"link": "https://www.saashub.com/k2-alternatives"
-		},
-		{
-			"text": "Ora",
-			"link": "https://www.saashub.com/ora-alternatives"
-		},
-		{
-			"text": "✓\nLabourly",
-			"link": "https://www.saashub.com/labourly?ref=featured&src=list"
-		},
-		{
-			"text": "Bluebeam Revu",
-			"link": "https://www.saashub.com/bluebeam-revu-alternatives"
-		},
-		{
-			"text": "PukkaTeam",
-			"link": "https://www.saashub.com/pukkateam-alternatives"
-		},
-		{
-			"text": "Hollow Knight",
-			"link": "https://www.saashub.com/hollow-knight-alternatives"
-		},
-		{
-			"text": "Esti-Mate Software Version 4.5",
-			"link": "https://www.saashub.com/esti-mate-software-version-4-5-alternatives"
-		},
-		{
-			"text": "Any.DO",
-			"link": "https://www.saashub.com/any-do-alternatives"
-		},
-		{
-			"text": "ScreenCloud",
-			"link": "https://www.saashub.com/screencloud-alternatives"
-		},
-		{
-			"text": "Huddle",
-			"link": "https://www.saashub.com/huddle-alternatives"
-		},
-		{
-			"text": "Aha",
-			"link": "https://www.saashub.com/aha-alternatives"
-		},
-		{
-			"text": "Microsoft Office Excel",
-			"link": "https://www.saashub.com/microsoft-office-excel-alternatives"
-		},
-		{
-			"text": "DISQUS",
-			"link": "https://www.saashub.com/disqus-alternatives"
-		},
-		{
-			"text": "Zeetaminds",
-			"link": "https://www.saashub.com/zeetaminds-alternatives"
-		},
-		{
-			"text": "Linear",
-			"link": "https://www.saashub.com/linear-alternatives"
-		},
-		{
-			"text": "Google Sheets",
-			"link": "https://www.saashub.com/google-sheets-alternatives"
-		},
-		{
-			"text": "✓\nMonitask",
-			"link": "https://www.saashub.com/monitask?ref=featured&src=list"
-		},
-		{
-			"text": "Clockify",
-			"link": "https://www.saashub.com/clockify-alternatives"
-		},
-		{
-			"text": "RescueTime",
-			"link": "https://www.saashub.com/rescuetime-alternatives"
-		},
-		{
-			"text": "BitBucket",
-			"link": "https://www.saashub.com/bitbucket-alternatives"
-		},
-		{
-			"text": "Telegram",
-			"link": "https://www.saashub.com/telegram-alternatives"
-		},
-		{
-			"text": "CoConstruct",
-			"link": "https://www.saashub.com/coconstruct-alternatives"
-		},
-		{
-			"text": "Workplace by Facebook",
-			"link": "https://www.saashub.com/workplace-by-facebook-alternatives"
-		},
-		{
-			"text": "VComply",
-			"link": "https://www.saashub.com/vcomply-alternatives"
-		},
-		{
-			"text": "Pike13",
-			"link": "https://www.saashub.com/pike13-alternatives"
-		},
-		{
-			"text": "Org mode",
-			"link": "https://www.saashub.com/org-mode-alternatives"
-		},
-		{
-			"text": "Sunsama",
-			"link": "https://www.saashub.com/sunsama-alternatives"
-		},
-		{
-			"text": "OneNote",
-			"link": "https://www.saashub.com/onenote-alternatives"
-		},
-		{
-			"text": "Transcend",
-			"link": "https://www.saashub.com/transcend-alternatives"
-		},
-		{
-			"text": "MAGIQ",
-			"link": "https://www.saashub.com/magiq-alternatives"
-		},
-		{
-			"text": "✓\nProject Burndown",
-			"link": "https://www.saashub.com/project-burndown?ref=featured&src=list"
-		},
-		{
-			"text": "Microsoft To-Do",
-			"link": "https://www.saashub.com/microsoft-to-do-alternatives"
-		},
-		{
-			"text": "Google Scholar",
-			"link": "https://www.saashub.com/google-scholar-alternatives"
-		},
-		{
-			"text": "eramba",
-			"link": "https://www.saashub.com/eramba-alternatives"
-		},
-		{
-			"text": "Screenful",
-			"link": "https://www.saashub.com/screenful-alternatives"
-		},
-		{
-			"text": "Samepage",
-			"link": "https://www.saashub.com/samepage-alternatives"
-		},
-		{
-			"text": "Taiga.io",
-			"link": "https://www.saashub.com/taiga-io-alternatives"
-		},
-		{
-			"text": "FileBound",
-			"link": "https://www.saashub.com/filebound-alternatives"
-		},
-		{
-			"text": "ReclaimAI",
-			"link": "https://www.saashub.com/reclaimai-alternatives"
-		},
-		{
-			"text": "PTC Windchill",
-			"link": "https://www.saashub.com/ptc-windchill-alternatives"
-		},
-		{
-			"text": "Elmeasure",
-			"link": "https://www.saashub.com/elmeasure-alternatives"
-		},
-		{
-			"text": "✓\nZoho CRM",
-			"link": "https://www.saashub.com/zoho-crm-alternatives"
-		},
-		{
-			"text": "Embed Signage",
-			"link": "https://www.saashub.com/embed-signage-alternatives"
-		},
-		{
-			"text": "TimeCamp",
-			"link": "https://www.saashub.com/timecamp-alternatives"
-		},
-		{
-			"text": "✓\nProject Burndown",
-			"link": "https://www.saashub.com/project-burndown?ref=featured&src=list"
-		},
-		{
-			"text": "YellowAnt",
-			"link": "https://www.saashub.com/yellowant-alternatives"
-		},
-		{
-			"text": "Fieldwire",
-			"link": "https://www.saashub.com/fieldwire-alternatives"
-		},
-		{
-			"text": "Assemble Insight",
-			"link": "https://www.saashub.com/assemble-insight-alternatives"
-		},
-		{
-			"text": "Nintex",
-			"link": "https://www.saashub.com/nintex-alternatives"
-		},
-		{
-			"text": "Dropbox",
-			"link": "https://www.saashub.com/dropbox-alternatives"
-		},
-		{
-			"text": "Intellect",
-			"link": "https://www.saashub.com/intellect-alternatives"
-		},
-		{
-			"text": "Google Tasks",
-			"link": "https://www.saashub.com/google-tasks-alternatives"
-		},
-		{
-			"text": "Taskworld",
-			"link": "https://www.saashub.com/taskworld-alternatives"
-		},
-		{
-			"text": "eTakeoff",
-			"link": "https://www.saashub.com/etakeoff-alternatives"
-		},
-		{
-			"text": "Time Doctor",
-			"link": "https://www.saashub.com/time-doctor-alternatives"
-		},
-		{
-			"text": "ProcessMaker",
-			"link": "https://www.saashub.com/processmaker-alternatives"
-		},
-		{
-			"text": "Hubstaff",
-			"link": "https://www.saashub.com/hubstaff-alternatives"
-		},
-		{
-			"text": "Taiga",
-			"link": "https://www.saashub.com/taiga-alternatives"
-		},
-		{
-			"text": "✓\nMonitask",
-			"link": "https://www.saashub.com/monitask?ref=featured&src=list"
-		},
-		{
-			"text": "PrebuiltML",
-			"link": "https://www.saashub.com/prebuiltml-alternatives"
-		},
-		{
-			"text": "ManicTime",
-			"link": "https://www.saashub.com/manictime-alternatives"
-		},
-		{
-			"text": "Workboard",
-			"link": "https://www.saashub.com/workboard-alternatives"
-		},
-		{
-			"text": "Roadmap",
-			"link": "https://www.saashub.com/roadmap-alternatives"
-		},
-		{
-			"text": "PDComms Tool",
-			"link": "https://www.saashub.com/pdcomms-tool-alternatives"
-		},
-		{
-			"text": "Trac",
-			"link": "https://www.saashub.com/trac-alternatives"
-		},
-		{
-			"text": "Freedcamp",
-			"link": "https://www.saashub.com/freedcamp-alternatives"
-		},
-		{
-			"text": "Niice",
-			"link": "https://www.saashub.com/niice-alternatives"
-		},
-		{
-			"text": "Propel",
-			"link": "https://www.saashub.com/propel-alternatives"
-		},
-		{
-			"text": "Zapier",
-			"link": "https://www.saashub.com/zapier-alternatives"
-		},
-		{
-			"text": "PresentationPoint iPoint",
-			"link": "https://www.saashub.com/presentationpoint-ipoint-alternatives"
-		},
-		{
-			"text": "Kanboard",
-			"link": "https://www.saashub.com/kanboard-alternatives"
-		},
-		{
-			"text": "LiquidPlanner",
-			"link": "https://www.saashub.com/liquidplanner-alternatives"
-		},
-		{
-			"text": "✓\nCobbleStone Software",
-			"link": "https://www.saashub.com/cobblestone-software?ref=featured&src=list"
-		},
-		{
-			"text": "VizanSign",
-			"link": "https://www.saashub.com/vizansign-alternatives"
-		},
-		{
-			"text": "ClubExpress",
-			"link": "https://www.saashub.com/clubexpress-alternatives"
-		},
-		{
-			"text": "Pipefy",
-			"link": "https://www.saashub.com/pipefy-alternatives"
-		},
-		{
-			"text": "LogicManager",
-			"link": "https://www.saashub.com/logicmanager-alternatives"
-		},
-		{
-			"text": "Microsoft Operations Management Suite",
-			"link": "https://www.saashub.com/microsoft-operations-management-suite-alternatives"
-		},
-		{
-			"text": "Toggl Track",
-			"link": "https://www.saashub.com/toggl-track-alternatives"
-		},
-		{
-			"text": "Loandisk",
-			"link": "https://www.saashub.com/loandisk-alternatives"
-		},
-		{
-			"text": "AppSheet",
-			"link": "https://www.saashub.com/appsheet-alternatives"
-		},
-		{
-			"text": "World of Warcraft",
-			"link": "https://www.saashub.com/world-of-warcraft-alternatives"
-		},
-		{
-			"text": "Scoro",
-			"link": "https://www.saashub.com/scoro-alternatives"
-		},
-		{
-			"text": "RedBooth",
-			"link": "https://www.saashub.com/redbooth-alternatives"
-		},
-		{
-			"text": "Amazing Marvin",
-			"link": "https://www.saashub.com/amazing-marvin-alternatives"
-		},
-		{
-			"text": "MetricStream",
-			"link": "https://www.saashub.com/metricstream-alternatives"
-		},
-		{
-			"text": "✓\nDontPayFull",
-			"link": "https://www.saashub.com/dontpayfull?ref=featured&src=list"
-		},
-		{
-			"text": "Laserfiche",
-			"link": "https://www.saashub.com/laserfiche-alternatives"
-		},
-		{
-			"text": "Google Workspace",
-			"link": "https://www.saashub.com/google-workspace-alternatives"
-		},
-		{
-			"text": "Document Locator",
-			"link": "https://www.saashub.com/document-locator-alternatives"
-		},
-		{
-			"text": "Google Keep",
-			"link": "https://www.saashub.com/google-keep-alternatives"
-		},
-		{
-			"text": "✓\nPipedrive",
-			"link": "https://www.saashub.com/pipedrive-alternatives"
-		},
-		{
-			"text": "ProEst",
-			"link": "https://www.saashub.com/proest-alternatives"
-		},
-		{
-			"text": "Cdw",
-			"link": "https://www.saashub.com/cdw-alternatives"
-		},
-		{
-			"text": "Ultimus BPM",
-			"link": "https://www.saashub.com/ultimus-bpm-alternatives"
-		},
-		{
-			"text": "Fellow.app",
-			"link": "https://www.saashub.com/fellow-app-alternatives"
-		},
-		{
-			"text": "Ecolane DRT",
-			"link": "https://www.saashub.com/ecolane-drt-alternatives"
-		},
-		{
-			"text": "Spectrum",
-			"link": "https://www.saashub.com/spectrum-alternatives"
-		},
-		{
-			"text": "ThinkSmart",
-			"link": "https://www.saashub.com/thinksmart-alternatives"
-		},
-		{
-			"text": "Assemble",
-			"link": "https://www.saashub.com/assemble-alternatives"
-		},
-		{
-			"text": "✓\nLabourly",
-			"link": "https://www.saashub.com/labourly?ref=featured&src=list"
-		},
-		{
-			"text": "Flowfinity",
-			"link": "https://www.saashub.com/flowfinity-alternatives"
-		},
-		{
-			"text": "✓\nWeekdone",
-			"link": "https://www.saashub.com/weekdone-alternatives"
-		},
-		{
-			"text": "Ziflow",
-			"link": "https://www.saashub.com/ziflow-alternatives"
-		},
-		{
-			"text": "Twine",
-			"link": "https://www.saashub.com/twine-alternatives"
-		},
-		{
-			"text": "WellnessLiving",
-			"link": "https://www.saashub.com/wellnessliving-alternatives"
-		},
-		{
-			"text": "Process Street",
-			"link": "https://www.saashub.com/process-street-alternatives"
-		},
-		{
-			"text": "Officevibe",
-			"link": "https://www.saashub.com/officevibe-alternatives"
-		},
-		{
-			"text": "Leantime",
-			"link": "https://www.saashub.com/leantime-alternatives"
-		},
-		{
-			"text": "Apollo",
-			"link": "https://www.saashub.com/apollo-alternatives"
-		},
-		{
-			"text": "✓\nFreshBooks",
-			"link": "https://www.saashub.com/freshbooks-alternatives"
-		},
-		{
-			"text": "Mosaic",
-			"link": "https://www.saashub.com/mosaic-alternatives"
-		},
-		{
-			"text": "LibreOffice",
-			"link": "https://www.saashub.com/libreoffice-alternatives"
-		},
-		{
-			"text": "FixNix",
-			"link": "https://www.saashub.com/fixnix-alternatives"
-		},
-		{
-			"text": "✓\nProject Burndown",
-			"link": "https://www.saashub.com/project-burndown?ref=featured&src=list"
-		},
-		{
-			"text": "Doc.It Suite",
-			"link": "https://www.saashub.com/doc-it-suite-alternatives"
-		},
-		{
-			"text": "TIEMCHART",
-			"link": "https://www.saashub.com/tiemchart-alternatives"
-		},
-		{
-			"text": "Virtuagym",
-			"link": "https://www.saashub.com/virtuagym-alternatives"
-		},
-		{
-			"text": "Taskwarrior",
-			"link": "https://www.saashub.com/taskwarrior-alternatives"
-		},
-		{
-			"text": "EtQ Reliance",
-			"link": "https://www.saashub.com/etq-reliance-alternatives"
-		},
-		{
-			"text": "Dynalist",
-			"link": "https://www.saashub.com/dynalist-alternatives"
-		},
-		{
-			"text": "Seismic",
-			"link": "https://www.saashub.com/seismic-alternatives"
-		},
-		{
-			"text": "Zen Planner",
-			"link": "https://www.saashub.com/zen-planner-alternatives"
-		},
-		{
-			"text": "Remix",
-			"link": "https://www.saashub.com/remix-alternatives"
-		},
-		{
-			"text": "Sciforma",
-			"link": "https://www.saashub.com/sciforma-alternatives"
-		},
-		{
-			"text": "Checkvist",
-			"link": "https://www.saashub.com/checkvist-alternatives"
-		},
-		{
-			"text": "ecostream",
-			"link": "https://www.saashub.com/ecostream-alternatives"
-		},
-		{
-			"text": "OutSystems",
-			"link": "https://www.saashub.com/outsystems-alternatives"
-		},
-		{
-			"text": "✓\nLabourly",
-			"link": "https://www.saashub.com/labourly?ref=featured&src=list"
-		},
-		{
-			"text": "Dropbox Paper",
-			"link": "https://www.saashub.com/dropbox-paper-alternatives"
-		},
-		{
-			"text": "Black Desert Online",
-			"link": "https://www.saashub.com/black-desert-online-alternatives"
-		},
-		{
-			"text": "eXo Platform",
-			"link": "https://www.saashub.com/exo-platform-alternatives"
-		},
-		{
-			"text": "HCSS HeavyBid",
-			"link": "https://www.saashub.com/hcss-heavybid-alternatives"
-		},
-		{
-			"text": "✓\nTeamRetro",
-			"link": "https://www.saashub.com/teamretro-alternatives"
-		},
-		{
-			"text": "Simplenote",
-			"link": "https://www.saashub.com/simplenote-alternatives"
-		},
-		{
-			"text": "Knowify",
-			"link": "https://www.saashub.com/knowify-alternatives"
-		},
-		{
-			"text": "KanbanFlow",
-			"link": "https://www.saashub.com/kanbanflow-alternatives"
-		},
-		{
-			"text": "Yammer",
-			"link": "https://www.saashub.com/yammer-alternatives"
-		},
-		{
-			"text": "Unily",
-			"link": "https://www.saashub.com/unily-alternatives"
-		},
-		{
-			"text": "BidGenius",
-			"link": "https://www.saashub.com/bidgenius-alternatives"
-		},
-		{
-			"text": "Intalio",
-			"link": "https://www.saashub.com/intalio-alternatives"
-		},
-		{
-			"text": "✓\nZoho Projects",
-			"link": "https://www.saashub.com/zoho-projects-alternatives"
-		},
-		{
-			"text": "✓\nHive",
-			"link": "https://www.saashub.com/hive?ref=featured&src=list"
-		},
-		{
-			"text": "Enablon",
-			"link": "https://www.saashub.com/enablon-alternatives"
-		},
-		{
-			"text": "Communifire",
-			"link": "https://www.saashub.com/communifire-alternatives"
-		},
-		{
-			"text": "Office 365",
-			"link": "https://www.saashub.com/office-365-alternatives"
-		},
-		{
-			"text": "15Five",
-			"link": "https://www.saashub.com/15five-alternatives"
-		}
-	]
+  "categoryName": "",
+  "services": [
+    {
+      "text": "Asana",
+      "link": "https://www.saashub.com/asana-alternatives"
+    },
+    {
+      "text": "Trello",
+      "link": "https://www.saashub.com/trello-alternatives"
+    },
+    {
+      "text": "Ayanza",
+      "link": "https://www.saashub.com/ayanza?ref=featured&src="
+    },
+    {
+      "text": "Wrike",
+      "link": "https://www.saashub.com/wrike-alternatives"
+    },
+    {
+      "text": "Basecamp",
+      "link": "https://www.saashub.com/basecamp-alternatives"
+    },
+    {
+      "text": "monday.com",
+      "link": "https://www.saashub.com/monday-alternatives"
+    },
+    {
+      "text": "Jira",
+      "link": "https://www.saashub.com/jira-alternatives"
+    },
+    {
+      "text": "Smartsheet",
+      "link": "https://www.saashub.com/smartsheet-alternatives"
+    },
+    {
+      "text": "Redmine",
+      "link": "https://www.saashub.com/redmine-alternatives"
+    },
+    {
+      "text": "Todoist",
+      "link": "https://www.saashub.com/todoist-alternatives"
+    },
+    {
+      "text": "ClickUp",
+      "link": "https://www.saashub.com/clickup-alternatives"
+    },
+    {
+      "text": "Teamwork",
+      "link": "https://www.saashub.com/teamwork-alternatives"
+    },
+    {
+      "text": "Airtable",
+      "link": "https://www.saashub.com/airtable-alternatives"
+    },
+    {
+      "text": "Teamgantt",
+      "link": "https://www.saashub.com/teamgantt-alternatives"
+    },
+    {
+      "text": "Slack",
+      "link": "https://www.saashub.com/slack-alternatives"
+    },
+    {
+      "text": "Bitrix24",
+      "link": "https://www.saashub.com/bitrix24-alternatives"
+    },
+    {
+      "text": "Project Burndown",
+      "link": "https://www.saashub.com/project-burndown?ref=featured&src=list"
+    },
+    {
+      "text": "Chess.com",
+      "link": "https://www.saashub.com/chess-com-alternatives"
+    },
+    {
+      "text": "Lichess",
+      "link": "https://www.saashub.com/lichess-alternatives"
+    },
+    {
+      "text": "Procore",
+      "link": "https://www.saashub.com/procore-alternatives"
+    },
+    {
+      "text": "Paymo",
+      "link": "https://www.saashub.com/paymo-alternatives"
+    },
+    {
+      "text": "Zenkit",
+      "link": "https://www.saashub.com/zenkit-alternatives"
+    },
+    {
+      "text": "Active Collab",
+      "link": "https://www.saashub.com/active-collab-alternatives"
+    },
+    {
+      "text": "AODocs",
+      "link": "https://www.saashub.com/aodocs-alternatives"
+    },
+    {
+      "text": "Clubhouse",
+      "link": "https://www.saashub.com/clubhouse-alternatives"
+    },
+    {
+      "text": "QuickBase",
+      "link": "https://www.saashub.com/quickbase-alternatives"
+    },
+    {
+      "text": "OpenKM",
+      "link": "https://www.saashub.com/openkm-alternatives"
+    },
+    {
+      "text": "Docomotion",
+      "link": "https://www.saashub.com/docomotion-alternatives"
+    },
+    {
+      "text": "Zoho Docs",
+      "link": "https://www.saashub.com/zoho-docs-alternatives"
+    },
+    {
+      "text": "Breeze",
+      "link": "https://www.saashub.com/breeze-alternatives"
+    },
+    {
+      "text": "CobbleStone Software",
+      "link": "https://www.saashub.com/cobblestone-software?ref=featured&src=list"
+    },
+    {
+      "text": "Notion",
+      "link": "https://www.saashub.com/notion-alternatives"
+    },
+    {
+      "text": "infoRouter",
+      "link": "https://www.saashub.com/inforouter-alternatives"
+    },
+    {
+      "text": "Microsoft Teams",
+      "link": "https://www.saashub.com/microsoft-teams-alternatives"
+    },
+    {
+      "text": "Appian",
+      "link": "https://www.saashub.com/appian-alternatives"
+    },
+    {
+      "text": "GitLab",
+      "link": "https://www.saashub.com/gitlab-alternatives"
+    },
+    {
+      "text": "Zoho Creator",
+      "link": "https://www.saashub.com/zoho-creator-alternatives"
+    },
+    {
+      "text": "SPDocKit",
+      "link": "https://www.saashub.com/spdockit-alternatives"
+    },
+    {
+      "text": "PriceCost",
+      "link": "https://www.saashub.com/pricecost-alternatives"
+    },
+    {
+      "text": "Hive",
+      "link": "https://www.saashub.com/hive-alternatives"
+    },
+    {
+      "text": "Quire",
+      "link": "https://www.saashub.com/quire-alternatives"
+    },
+    {
+      "text": "Workflowy",
+      "link": "https://www.saashub.com/workflowy-alternatives"
+    },
+    {
+      "text": "SmartVault",
+      "link": "https://www.saashub.com/smartvault-alternatives"
+    },
+    {
+      "text": "ProWorkflow",
+      "link": "https://www.saashub.com/proworkflow-alternatives"
+    },
+    {
+      "text": "Project Burndown",
+      "link": "https://www.saashub.com/project-burndown?ref=featured&src=list"
+    },
+    {
+      "text": "Workfront",
+      "link": "https://www.saashub.com/workfront-alternatives"
+    },
+    {
+      "text": "Harvest",
+      "link": "https://www.saashub.com/harvest-alternatives"
+    },
+    {
+      "text": "Toggl",
+      "link": "https://www.saashub.com/toggl-alternatives"
+    },
+    {
+      "text": "Jama Connect",
+      "link": "https://www.saashub.com/jama-connect-alternatives"
+    },
+    {
+      "text": "Camunda",
+      "link": "https://www.saashub.com/camunda-alternatives"
+    },
+    {
+      "text": "Remember The Milk",
+      "link": "https://www.saashub.com/remember-the-milk-alternatives"
+    },
+    {
+      "text": "Kissflow",
+      "link": "https://www.saashub.com/kissflow-alternatives"
+    },
+    {
+      "text": "PlanSwift",
+      "link": "https://www.saashub.com/planswift-alternatives"
+    },
+    {
+      "text": "PaperVision Enterprise",
+      "link": "https://www.saashub.com/papervision-enterprise-alternatives"
+    },
+    {
+      "text": "HyperOffice",
+      "link": "https://www.saashub.com/hyperoffice-alternatives"
+    },
+    {
+      "text": "Evernote",
+      "link": "https://www.saashub.com/evernote-alternatives"
+    },
+    {
+      "text": "Quip",
+      "link": "https://www.saashub.com/quip-alternatives"
+    },
+    {
+      "text": "Confluence",
+      "link": "https://www.saashub.com/confluence-alternatives"
+    },
+    {
+      "text": "Project Burndown",
+      "link": "https://www.saashub.com/project-burndown?ref=featured&src=list"
+    },
+    {
+      "text": "Flow",
+      "link": "https://www.saashub.com/flow-alternatives"
+    },
+    {
+      "text": "GitHub",
+      "link": "https://www.saashub.com/github-alternatives"
+    },
+    {
+      "text": "MINDBODY",
+      "link": "https://www.saashub.com/mindbody-alternatives"
+    },
+    {
+      "text": "Mavenlink",
+      "link": "https://www.saashub.com/mavenlink-alternatives"
+    },
+    {
+      "text": "RingCentral Video",
+      "link": "https://www.saashub.com/ringcentral-video-alternatives"
+    },
+    {
+      "text": "AutoEDMS",
+      "link": "https://www.saashub.com/autoedms-alternatives"
+    },
+    {
+      "text": "Kintone",
+      "link": "https://www.saashub.com/kintone-alternatives"
+    },
+    {
+      "text": "Corecon",
+      "link": "https://www.saashub.com/corecon-alternatives"
+    },
+    {
+      "text": "Freshservice",
+      "link": "https://www.saashub.com/freshservice-alternatives"
+    },
+    {
+      "text": "Things",
+      "link": "https://www.saashub.com/things-alternatives"
+    },
+    {
+      "text": "Taskade",
+      "link": "https://www.saashub.com/taskade-alternatives"
+    },
+    {
+      "text": "MS SharePoint",
+      "link": "https://www.saashub.com/ms-sharepoint-alternatives"
+    },
+    {
+      "text": "Podio",
+      "link": "https://www.saashub.com/podio-alternatives"
+    },
+    {
+      "text": "Project Burndown",
+      "link": "https://www.saashub.com/project-burndown?ref=featured&src=list"
+    },
+    {
+      "text": "KRYSTAL - Document Management System",
+      "link": "https://www.saashub.com/krystal-document-management-system-alternatives"
+    },
+    {
+      "text": "Creativity 365",
+      "link": "https://www.saashub.com/creativity-365-alternatives"
+    },
+    {
+      "text": "Bizagi",
+      "link": "https://www.saashub.com/bizagi-alternatives"
+    },
+    {
+      "text": "Autodesk BIM 360",
+      "link": "https://www.saashub.com/autodesk-bim-360-alternatives"
+    },
+    {
+      "text": "productboard",
+      "link": "https://www.saashub.com/productboard-alternatives"
+    },
+    {
+      "text": "TickTick",
+      "link": "https://www.saashub.com/ticktick-alternatives"
+    },
+    {
+      "text": "Plutio",
+      "link": "https://www.saashub.com/plutio-alternatives"
+    },
+    {
+      "text": "Infolinx Records Management",
+      "link": "https://www.saashub.com/infolinx-records-management-alternatives"
+    },
+    {
+      "text": "OmniPlan",
+      "link": "https://www.saashub.com/omniplan-alternatives"
+    },
+    {
+      "text": "TargetProcess",
+      "link": "https://www.saashub.com/targetprocess-alternatives"
+    },
+    {
+      "text": "BuilderTREND",
+      "link": "https://www.saashub.com/buildertrend-alternatives"
+    },
+    {
+      "text": "LeanKit",
+      "link": "https://www.saashub.com/leankit-alternatives"
+    },
+    {
+      "text": "Microsoft Project",
+      "link": "https://www.saashub.com/microsoft-project-alternatives"
+    },
+    {
+      "text": "Sup! Standup Bot",
+      "link": "https://www.saashub.com/sup-standup-bot?ref=featured&src=list"
+    },
+    {
+      "text": "SquidHub",
+      "link": "https://www.saashub.com/squidhub-alternatives"
+    },
+    {
+      "text": "Cleopatra Enterprise",
+      "link": "https://www.saashub.com/cleopatra-enterprise-alternatives"
+    },
+    {
+      "text": "Ninox",
+      "link": "https://www.saashub.com/ninox-alternatives"
+    },
+    {
+      "text": "DocXellent",
+      "link": "https://www.saashub.com/docxellent-alternatives"
+    },
+    {
+      "text": "Wekan",
+      "link": "https://www.saashub.com/wekan-alternatives"
+    },
+    {
+      "text": "Time and Material Plus",
+      "link": "https://www.saashub.com/time-and-material-plus-alternatives"
+    },
+    {
+      "text": "Clockify",
+      "link": "https://www.saashub.com/clockify-alternatives"
+    },
+    {
+      "text": "PlanGrid",
+      "link": "https://www.saashub.com/plangrid-alternatives"
+    },
+    {
+      "text": "ONLYOFFICE",
+      "link": "https://www.saashub.com/onlyoffice-alternatives"
+    },
+    {
+      "text": "Teamgrid",
+      "link": "https://www.saashub.com/teamgrid-alternatives"
+    },
+    {
+      "text": "Clarizen",
+      "link": "https://www.saashub.com/clarizen-alternatives"
+    },
+    {
+      "text": "Miro",
+      "link": "https://www.saashub.com/miro-alternatives"
+    },
+    {
+      "text": "SAP GRC",
+      "link": "https://www.saashub.com/sap-grc-alternatives"
+    },
+    {
+      "text": "Assembly",
+      "link": "https://www.saashub.com/assembly?ref=featured&src=list"
+    },
+    {
+      "text": "Nifty",
+      "link": "https://www.saashub.com/nifty-alternatives"
+    },
+    {
+      "text": "Ideagen Coruson",
+      "link": "https://www.saashub.com/ideagen-coruson-alternatives"
+    },
+    {
+      "text": "Pivotal Tracker",
+      "link": "https://www.saashub.com/pivotal-tracker-alternatives"
+    },
+    {
+      "text": "Meistertask",
+      "link": "https://www.saashub.com/meistertask-alternatives"
+    },
+    {
+      "text": "CogniDox",
+      "link": "https://www.saashub.com/cognidox-alternatives"
+    },
+    {
+      "text": "BigTime.net",
+      "link": "https://www.saashub.com/bigtime-net-alternatives"
+    },
+    {
+      "text": "Linear",
+      "link": "https://www.saashub.com/linear-alternatives"
+    },
+    {
+      "text": "Any.DO",
+      "link": "https://www.saashub.com/any-do-alternatives"
+    },
+    {
+      "text": "GanttProject",
+      "link": "https://www.saashub.com/ganttproject-alternatives"
+    },
+    {
+      "text": "Oracle Primavera",
+      "link": "https://www.saashub.com/oracle-primavera-alternatives"
+    },
+    {
+      "text": "DESTINI Estimator",
+      "link": "https://www.saashub.com/destini-estimator-alternatives"
+    },
+    {
+      "text": "Scoop Solar",
+      "link": "https://www.saashub.com/scoop-solar-alternatives"
+    },
+    {
+      "text": "Ora",
+      "link": "https://www.saashub.com/ora-alternatives"
+    },
+    {
+      "text": "Labourly",
+      "link": "https://www.saashub.com/labourly?ref=featured&src=list"
+    },
+    {
+      "text": "BitBucket",
+      "link": "https://www.saashub.com/bitbucket-alternatives"
+    },
+    {
+      "text": "PukkaTeam",
+      "link": "https://www.saashub.com/pukkateam-alternatives"
+    },
+    {
+      "text": "LogikCull",
+      "link": "https://www.saashub.com/logikcull-alternatives"
+    },
+    {
+      "text": "Bluebeam Revu",
+      "link": "https://www.saashub.com/bluebeam-revu-alternatives"
+    },
+    {
+      "text": "K2",
+      "link": "https://www.saashub.com/k2-alternatives"
+    },
+    {
+      "text": "ScreenCloud",
+      "link": "https://www.saashub.com/screencloud-alternatives"
+    },
+    {
+      "text": "Aha",
+      "link": "https://www.saashub.com/aha-alternatives"
+    },
+    {
+      "text": "Zeetaminds",
+      "link": "https://www.saashub.com/zeetaminds-alternatives"
+    },
+    {
+      "text": "Esti-Mate Software Version 4.5",
+      "link": "https://www.saashub.com/esti-mate-software-version-4-5-alternatives"
+    },
+    {
+      "text": "Huddle",
+      "link": "https://www.saashub.com/huddle-alternatives"
+    },
+    {
+      "text": "Microsoft Office Excel",
+      "link": "https://www.saashub.com/microsoft-office-excel-alternatives"
+    },
+    {
+      "text": "Google Sheets",
+      "link": "https://www.saashub.com/google-sheets-alternatives"
+    },
+    {
+      "text": "DISQUS",
+      "link": "https://www.saashub.com/disqus-alternatives"
+    },
+    {
+      "text": "Project Burndown",
+      "link": "https://www.saashub.com/project-burndown?ref=featured&src=list"
+    },
+    {
+      "text": "Hollow Knight",
+      "link": "https://www.saashub.com/hollow-knight-alternatives"
+    },
+    {
+      "text": "VComply",
+      "link": "https://www.saashub.com/vcomply-alternatives"
+    },
+    {
+      "text": "Telegram",
+      "link": "https://www.saashub.com/telegram-alternatives"
+    },
+    {
+      "text": "Zoho CRM",
+      "link": "https://www.saashub.com/zoho-crm-alternatives"
+    },
+    {
+      "text": "Transcend",
+      "link": "https://www.saashub.com/transcend-alternatives"
+    },
+    {
+      "text": "RescueTime",
+      "link": "https://www.saashub.com/rescuetime-alternatives"
+    },
+    {
+      "text": "Workplace by Facebook",
+      "link": "https://www.saashub.com/workplace-by-facebook-alternatives"
+    },
+    {
+      "text": "ReclaimAI",
+      "link": "https://www.saashub.com/reclaimai-alternatives"
+    },
+    {
+      "text": "Microsoft To-Do",
+      "link": "https://www.saashub.com/microsoft-to-do-alternatives"
+    },
+    {
+      "text": "Org mode",
+      "link": "https://www.saashub.com/org-mode-alternatives"
+    },
+    {
+      "text": "CoConstruct",
+      "link": "https://www.saashub.com/coconstruct-alternatives"
+    },
+    {
+      "text": "MAGIQ",
+      "link": "https://www.saashub.com/magiq-alternatives"
+    },
+    {
+      "text": "Sunsama",
+      "link": "https://www.saashub.com/sunsama-alternatives"
+    },
+    {
+      "text": "Hive",
+      "link": "https://www.saashub.com/hive?ref=featured&src=list"
+    },
+    {
+      "text": "OneNote",
+      "link": "https://www.saashub.com/onenote-alternatives"
+    },
+    {
+      "text": "Pike13",
+      "link": "https://www.saashub.com/pike13-alternatives"
+    },
+    {
+      "text": "eramba",
+      "link": "https://www.saashub.com/eramba-alternatives"
+    },
+    {
+      "text": "PTC Windchill",
+      "link": "https://www.saashub.com/ptc-windchill-alternatives"
+    },
+    {
+      "text": "Screenful",
+      "link": "https://www.saashub.com/screenful-alternatives"
+    },
+    {
+      "text": "Google Scholar",
+      "link": "https://www.saashub.com/google-scholar-alternatives"
+    },
+    {
+      "text": "Taiga.io",
+      "link": "https://www.saashub.com/taiga-io-alternatives"
+    },
+    {
+      "text": "FileBound",
+      "link": "https://www.saashub.com/filebound-alternatives"
+    },
+    {
+      "text": "TimeCamp",
+      "link": "https://www.saashub.com/timecamp-alternatives"
+    },
+    {
+      "text": "Samepage",
+      "link": "https://www.saashub.com/samepage-alternatives"
+    },
+    {
+      "text": "Embed Signage",
+      "link": "https://www.saashub.com/embed-signage-alternatives"
+    },
+    {
+      "text": "Fieldwire",
+      "link": "https://www.saashub.com/fieldwire-alternatives"
+    },
+    {
+      "text": "Google Tasks",
+      "link": "https://www.saashub.com/google-tasks-alternatives"
+    },
+    {
+      "text": "Ayanza",
+      "link": "https://www.saashub.com/ayanza?ref=featured&src=list"
+    },
+    {
+      "text": "Assemble Insight",
+      "link": "https://www.saashub.com/assemble-insight-alternatives"
+    },
+    {
+      "text": "YellowAnt",
+      "link": "https://www.saashub.com/yellowant-alternatives"
+    },
+    {
+      "text": "Elmeasure",
+      "link": "https://www.saashub.com/elmeasure-alternatives"
+    },
+    {
+      "text": "Intellect",
+      "link": "https://www.saashub.com/intellect-alternatives"
+    },
+    {
+      "text": "eTakeoff",
+      "link": "https://www.saashub.com/etakeoff-alternatives"
+    },
+    {
+      "text": "Taskworld",
+      "link": "https://www.saashub.com/taskworld-alternatives"
+    },
+    {
+      "text": "Nintex",
+      "link": "https://www.saashub.com/nintex-alternatives"
+    },
+    {
+      "text": "Microsoft 365",
+      "link": "https://www.saashub.com/microsoft-365-alternatives"
+    },
+    {
+      "text": "Time Doctor",
+      "link": "https://www.saashub.com/time-doctor-alternatives"
+    },
+    {
+      "text": "ManicTime",
+      "link": "https://www.saashub.com/manictime-alternatives"
+    },
+    {
+      "text": "Hubstaff",
+      "link": "https://www.saashub.com/hubstaff-alternatives"
+    },
+    {
+      "text": "Taiga",
+      "link": "https://www.saashub.com/taiga-alternatives"
+    },
+    {
+      "text": "Dropbox",
+      "link": "https://www.saashub.com/dropbox-alternatives"
+    },
+    {
+      "text": "PackageX Receive",
+      "link": "https://www.saashub.com/packagex-receive?ref=featured&src=list"
+    },
+    {
+      "text": "ProcessMaker",
+      "link": "https://www.saashub.com/processmaker-alternatives"
+    },
+    {
+      "text": "Toggl Track",
+      "link": "https://www.saashub.com/toggl-track-alternatives"
+    },
+    {
+      "text": "PrebuiltML",
+      "link": "https://www.saashub.com/prebuiltml-alternatives"
+    },
+    {
+      "text": "Workboard",
+      "link": "https://www.saashub.com/workboard-alternatives"
+    },
+    {
+      "text": "PDComms Tool",
+      "link": "https://www.saashub.com/pdcomms-tool-alternatives"
+    },
+    {
+      "text": "LibreOffice",
+      "link": "https://www.saashub.com/libreoffice-alternatives"
+    },
+    {
+      "text": "Freedcamp",
+      "link": "https://www.saashub.com/freedcamp-alternatives"
+    },
+    {
+      "text": "Google Workspace",
+      "link": "https://www.saashub.com/google-workspace-alternatives"
+    },
+    {
+      "text": "Trac",
+      "link": "https://www.saashub.com/trac-alternatives"
+    },
+    {
+      "text": "LiquidPlanner",
+      "link": "https://www.saashub.com/liquidplanner-alternatives"
+    },
+    {
+      "text": "PresentationPoint iPoint",
+      "link": "https://www.saashub.com/presentationpoint-ipoint-alternatives"
+    },
+    {
+      "text": "Niice",
+      "link": "https://www.saashub.com/niice-alternatives"
+    },
+    {
+      "text": "AppSheet",
+      "link": "https://www.saashub.com/appsheet-alternatives"
+    },
+    {
+      "text": "Sup! Standup Bot",
+      "link": "https://www.saashub.com/sup-standup-bot?ref=featured&src=list"
+    },
+    {
+      "text": "Roadmap",
+      "link": "https://www.saashub.com/roadmap-alternatives"
+    },
+    {
+      "text": "VizanSign",
+      "link": "https://www.saashub.com/vizansign-alternatives"
+    },
+    {
+      "text": "Scoro",
+      "link": "https://www.saashub.com/scoro-alternatives"
+    },
+    {
+      "text": "LogicManager",
+      "link": "https://www.saashub.com/logicmanager-alternatives"
+    },
+    {
+      "text": "Kanboard",
+      "link": "https://www.saashub.com/kanboard-alternatives"
+    },
+    {
+      "text": "Propel",
+      "link": "https://www.saashub.com/propel-alternatives"
+    },
+    {
+      "text": "Pipedrive",
+      "link": "https://www.saashub.com/pipedrive-alternatives"
+    },
+    {
+      "text": "Laserfiche",
+      "link": "https://www.saashub.com/laserfiche-alternatives"
+    },
+    {
+      "text": "Pipefy",
+      "link": "https://www.saashub.com/pipefy-alternatives"
+    },
+    {
+      "text": "Microsoft Operations Management Suite",
+      "link": "https://www.saashub.com/microsoft-operations-management-suite-alternatives"
+    },
+    {
+      "text": "ClubExpress",
+      "link": "https://www.saashub.com/clubexpress-alternatives"
+    },
+    {
+      "text": "Loandisk",
+      "link": "https://www.saashub.com/loandisk-alternatives"
+    },
+    {
+      "text": "RedBooth",
+      "link": "https://www.saashub.com/redbooth-alternatives"
+    },
+    {
+      "text": "Kirmada",
+      "link": "https://www.saashub.com/kirmada?ref=featured&src=list"
+    },
+    {
+      "text": "MetricStream",
+      "link": "https://www.saashub.com/metricstream-alternatives"
+    },
+    {
+      "text": "Weekdone",
+      "link": "https://www.saashub.com/weekdone-alternatives"
+    },
+    {
+      "text": "Amazing Marvin",
+      "link": "https://www.saashub.com/amazing-marvin-alternatives"
+    },
+    {
+      "text": "Leantime",
+      "link": "https://www.saashub.com/leantime-alternatives"
+    },
+    {
+      "text": "Cdw",
+      "link": "https://www.saashub.com/cdw-alternatives"
+    },
+    {
+      "text": "Zapier",
+      "link": "https://www.saashub.com/zapier-alternatives"
+    },
+    {
+      "text": "Google Keep",
+      "link": "https://www.saashub.com/google-keep-alternatives"
+    },
+    {
+      "text": "Document Locator",
+      "link": "https://www.saashub.com/document-locator-alternatives"
+    },
+    {
+      "text": "ProEst",
+      "link": "https://www.saashub.com/proest-alternatives"
+    },
+    {
+      "text": "Ultimus BPM",
+      "link": "https://www.saashub.com/ultimus-bpm-alternatives"
+    },
+    {
+      "text": "FreshBooks",
+      "link": "https://www.saashub.com/freshbooks-alternatives"
+    },
+    {
+      "text": "Spectrum",
+      "link": "https://www.saashub.com/spectrum-alternatives"
+    },
+    {
+      "text": "EtQ Reliance",
+      "link": "https://www.saashub.com/etq-reliance-alternatives"
+    },
+    {
+      "text": "Hive",
+      "link": "https://www.saashub.com/hive?ref=featured&src=list"
+    },
+    {
+      "text": "Fellow.app",
+      "link": "https://www.saashub.com/fellow-app-alternatives"
+    },
+    {
+      "text": "Apollo",
+      "link": "https://www.saashub.com/apollo-alternatives"
+    },
+    {
+      "text": "Assemble",
+      "link": "https://www.saashub.com/assemble-alternatives"
+    },
+    {
+      "text": "Process Street",
+      "link": "https://www.saashub.com/process-street-alternatives"
+    },
+    {
+      "text": "World of Warcraft",
+      "link": "https://www.saashub.com/world-of-warcraft-alternatives"
+    },
+    {
+      "text": "ThinkSmart",
+      "link": "https://www.saashub.com/thinksmart-alternatives"
+    },
+    {
+      "text": "Flowfinity",
+      "link": "https://www.saashub.com/flowfinity-alternatives"
+    },
+    {
+      "text": "Ecolane DRT",
+      "link": "https://www.saashub.com/ecolane-drt-alternatives"
+    },
+    {
+      "text": "Mosaic",
+      "link": "https://www.saashub.com/mosaic-alternatives"
+    },
+    {
+      "text": "Ziflow",
+      "link": "https://www.saashub.com/ziflow-alternatives"
+    },
+    {
+      "text": "Twine",
+      "link": "https://www.saashub.com/twine-alternatives"
+    },
+    {
+      "text": "Officevibe",
+      "link": "https://www.saashub.com/officevibe-alternatives"
+    },
+    {
+      "text": "Taskwarrior",
+      "link": "https://www.saashub.com/taskwarrior-alternatives"
+    },
+    {
+      "text": "Insightful.io",
+      "link": "https://www.saashub.com/insightful-io?ref=featured&src=list"
+    },
+    {
+      "text": "Dynalist",
+      "link": "https://www.saashub.com/dynalist-alternatives"
+    },
+    {
+      "text": "TIEMCHART",
+      "link": "https://www.saashub.com/tiemchart-alternatives"
+    },
+    {
+      "text": "Doc.It Suite",
+      "link": "https://www.saashub.com/doc-it-suite-alternatives"
+    },
+    {
+      "text": "OutSystems",
+      "link": "https://www.saashub.com/outsystems-alternatives"
+    },
+    {
+      "text": "Seismic",
+      "link": "https://www.saashub.com/seismic-alternatives"
+    },
+    {
+      "text": "Knowify",
+      "link": "https://www.saashub.com/knowify-alternatives"
+    },
+    {
+      "text": "FixNix",
+      "link": "https://www.saashub.com/fixnix-alternatives"
+    },
+    {
+      "text": "HCSS HeavyBid",
+      "link": "https://www.saashub.com/hcss-heavybid-alternatives"
+    },
+    {
+      "text": "ecostream",
+      "link": "https://www.saashub.com/ecostream-alternatives"
+    },
+    {
+      "text": "WellnessLiving",
+      "link": "https://www.saashub.com/wellnessliving-alternatives"
+    },
+    {
+      "text": "Checkvist",
+      "link": "https://www.saashub.com/checkvist-alternatives"
+    },
+    {
+      "text": "Virtuagym",
+      "link": "https://www.saashub.com/virtuagym-alternatives"
+    },
+    {
+      "text": "Zen Planner",
+      "link": "https://www.saashub.com/zen-planner-alternatives"
+    },
+    {
+      "text": "Project Burndown",
+      "link": "https://www.saashub.com/project-burndown?ref=featured&src=list"
+    },
+    {
+      "text": "ProdPad",
+      "link": "https://www.saashub.com/prodpad-alternatives"
+    },
+    {
+      "text": "Sciforma",
+      "link": "https://www.saashub.com/sciforma-alternatives"
+    },
+    {
+      "text": "Enablon",
+      "link": "https://www.saashub.com/enablon-alternatives"
+    },
+    {
+      "text": "15Five",
+      "link": "https://www.saashub.com/15five-alternatives"
+    },
+    {
+      "text": "Communifire",
+      "link": "https://www.saashub.com/communifire-alternatives"
+    },
+    {
+      "text": "Intalio",
+      "link": "https://www.saashub.com/intalio-alternatives"
+    },
+    {
+      "text": "Google Drive",
+      "link": "https://www.saashub.com/google-drive-alternatives"
+    },
+    {
+      "text": "Dropbox Paper",
+      "link": "https://www.saashub.com/dropbox-paper-alternatives"
+    },
+    {
+      "text": "Unily",
+      "link": "https://www.saashub.com/unily-alternatives"
+    },
+    {
+      "text": "BidGenius",
+      "link": "https://www.saashub.com/bidgenius-alternatives"
+    },
+    {
+      "text": "KanbanFlow",
+      "link": "https://www.saashub.com/kanbanflow-alternatives"
+    },
+    {
+      "text": "Yammer",
+      "link": "https://www.saashub.com/yammer-alternatives"
+    },
+    {
+      "text": "Simplenote",
+      "link": "https://www.saashub.com/simplenote-alternatives"
+    },
+    {
+      "text": "SysAid",
+      "link": "https://www.saashub.com/sysaid?ref=featured&src=list"
+    },
+    {
+      "text": "Remix",
+      "link": "https://www.saashub.com/remix-alternatives"
+    },
+    {
+      "text": "eXo Platform",
+      "link": "https://www.saashub.com/exo-platform-alternatives"
+    },
+    {
+      "text": "Obsidian.md",
+      "link": "https://www.saashub.com/obsidian-md-alternatives"
+    },
+    {
+      "text": "Visual Studio Team Services",
+      "link": "https://www.saashub.com/visual-studio-team-services-alternatives"
+    }
+  ]
 }

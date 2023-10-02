@@ -1,1041 +1,1041 @@
 {
-	"categoryName": "Monitoring Tools",
-	"services": [
-		{
-			"text": "Datadog",
-			"link": "https://www.saashub.com/datadog-alternatives"
-		},
-		{
-			"text": "Zabbix",
-			"link": "https://www.saashub.com/zabbix-alternatives"
-		},
-		{
-			"text": "✓\nAirDroid Business",
-			"link": "https://www.saashub.com/airdroid-business?ref=featured&src="
-		},
-		{
-			"text": "Speedtest.net",
-			"link": "https://www.saashub.com/speedtest-net-alternatives"
-		},
-		{
-			"text": "Fast.com",
-			"link": "https://www.saashub.com/fast-com-alternatives"
-		},
-		{
-			"text": "Prometheus",
-			"link": "https://www.saashub.com/prometheus-alternatives"
-		},
-		{
-			"text": "UptimeRobot",
-			"link": "https://www.saashub.com/uptimerobot-alternatives"
-		},
-		{
-			"text": "Grafana",
-			"link": "https://www.saashub.com/grafana-alternatives"
-		},
-		{
-			"text": "Dynatrace",
-			"link": "https://www.saashub.com/dynatrace-alternatives"
-		},
-		{
-			"text": "NewRelic",
-			"link": "https://www.saashub.com/newrelic-alternatives"
-		},
-		{
-			"text": "Pingdom",
-			"link": "https://www.saashub.com/pingdom-alternatives"
-		},
-		{
-			"text": "Nagios",
-			"link": "https://www.saashub.com/nagios-alternatives"
-		},
-		{
-			"text": "LogicMonitor",
-			"link": "https://www.saashub.com/logicmonitor-alternatives"
-		},
-		{
-			"text": "Nmap",
-			"link": "https://www.saashub.com/nmap-alternatives"
-		},
-		{
-			"text": "✓\nNinjaOne",
-			"link": "https://www.saashub.com/ninjaone-alternatives"
-		},
-		{
-			"text": "Qualys",
-			"link": "https://www.saashub.com/qualys-alternatives"
-		},
-		{
-			"text": "✓\nManageEngine Log360",
-			"link": "https://www.saashub.com/manageengine-log360?ref=featured&src=list"
-		},
-		{
-			"text": "Wireshark",
-			"link": "https://www.saashub.com/wireshark-alternatives"
-		},
-		{
-			"text": "AppDynamics",
-			"link": "https://www.saashub.com/appdynamics-alternatives"
-		},
-		{
-			"text": "Glary Utilities",
-			"link": "https://www.saashub.com/glary-utilities-alternatives"
-		},
-		{
-			"text": "Recuva",
-			"link": "https://www.saashub.com/recuva-alternatives"
-		},
-		{
-			"text": "Nessus",
-			"link": "https://www.saashub.com/nessus-alternatives"
-		},
-		{
-			"text": "Site24x7",
-			"link": "https://www.saashub.com/site24x7-alternatives"
-		},
-		{
-			"text": "TeamViewer",
-			"link": "https://www.saashub.com/teamviewer-alternatives"
-		},
-		{
-			"text": "StatusCake",
-			"link": "https://www.saashub.com/statuscake-alternatives"
-		},
-		{
-			"text": "PagerDuty",
-			"link": "https://www.saashub.com/pagerduty-alternatives"
-		},
-		{
-			"text": "LogMeIn Central",
-			"link": "https://www.saashub.com/logmein-central-alternatives"
-		},
-		{
-			"text": "Splunk",
-			"link": "https://www.saashub.com/splunk-alternatives"
-		},
-		{
-			"text": "Sumo Logic",
-			"link": "https://www.saashub.com/sumo-logic-alternatives"
-		},
-		{
-			"text": "Process Explorer",
-			"link": "https://www.saashub.com/process-explorer-alternatives"
-		},
-		{
-			"text": "✓\nlogit.io",
-			"link": "https://www.saashub.com/logit-io?ref=featured&src=list"
-		},
-		{
-			"text": "have i been pwned?",
-			"link": "https://www.saashub.com/have-i-been-pwned-alternatives"
-		},
-		{
-			"text": "Symantec Endpoint Encryption",
-			"link": "https://www.saashub.com/symantec-endpoint-encryption-alternatives"
-		},
-		{
-			"text": "CCleaner",
-			"link": "https://www.saashub.com/ccleaner-alternatives"
-		},
-		{
-			"text": "Disk Drill by Cleverfiles",
-			"link": "https://www.saashub.com/disk-drill-by-cleverfiles-alternatives"
-		},
-		{
-			"text": "CPU-Z",
-			"link": "https://www.saashub.com/cpu-z-alternatives"
-		},
-		{
-			"text": "TryHackMe",
-			"link": "https://www.saashub.com/tryhackme-alternatives"
-		},
-		{
-			"text": "ESET Endpoint Security",
-			"link": "https://www.saashub.com/eset-endpoint-security-alternatives"
-		},
-		{
-			"text": "TestDisk",
-			"link": "https://www.saashub.com/testdisk-alternatives"
-		},
-		{
-			"text": "Sentry.io",
-			"link": "https://www.saashub.com/sentry-io-alternatives"
-		},
-		{
-			"text": "Freshservice",
-			"link": "https://www.saashub.com/freshservice-alternatives"
-		},
-		{
-			"text": "NetBox",
-			"link": "https://www.saashub.com/netbox-alternatives"
-		},
-		{
-			"text": "Petrel E&P Software Platform",
-			"link": "https://www.saashub.com/petrel-eandp-software-platform-alternatives"
-		},
-		{
-			"text": "ManageEngine OpManager",
-			"link": "https://www.saashub.com/manageengine-opmanager-alternatives"
-		},
-		{
-			"text": "✓\nLevel.io",
-			"link": "https://www.saashub.com/level-io?ref=featured&src=list"
-		},
-		{
-			"text": "CrystalDiskInfo",
-			"link": "https://www.saashub.com/crystaldiskinfo-alternatives"
-		},
-		{
-			"text": "Microsoft System Center",
-			"link": "https://www.saashub.com/microsoft-system-center-alternatives"
-		},
-		{
-			"text": "ConnectWise Automate",
-			"link": "https://www.saashub.com/connectwise-automate-alternatives"
-		},
-		{
-			"text": "AppCleaner",
-			"link": "https://www.saashub.com/appcleaner-alternatives"
-		},
-		{
-			"text": "Splunk Enterprise",
-			"link": "https://www.saashub.com/splunk-enterprise-alternatives"
-		},
-		{
-			"text": "Arcserve UDP",
-			"link": "https://www.saashub.com/arcserve-udp-alternatives"
-		},
-		{
-			"text": "Testmy.net",
-			"link": "https://www.saashub.com/testmy-net-alternatives"
-		},
-		{
-			"text": "Amazon CloudWatch",
-			"link": "https://www.saashub.com/amazon-cloudwatch-alternatives"
-		},
-		{
-			"text": "iStat Menus",
-			"link": "https://www.saashub.com/istat-menus-alternatives"
-		},
-		{
-			"text": "Surfer",
-			"link": "https://www.saashub.com/surfer-alternatives"
-		},
-		{
-			"text": "Microsoft Operations Management Suite",
-			"link": "https://www.saashub.com/microsoft-operations-management-suite-alternatives"
-		},
-		{
-			"text": "✓\nAtera",
-			"link": "https://www.saashub.com/atera-alternatives"
-		},
-		{
-			"text": "AnyDesk",
-			"link": "https://www.saashub.com/anydesk-alternatives"
-		},
-		{
-			"text": "✓\nNetumo",
-			"link": "https://www.saashub.com/netumo?ref=featured&src=list"
-		},
-		{
-			"text": "Graylog",
-			"link": "https://www.saashub.com/graylog-alternatives"
-		},
-		{
-			"text": "myQuorum",
-			"link": "https://www.saashub.com/myquorum-alternatives"
-		},
-		{
-			"text": "Malwarebytes",
-			"link": "https://www.saashub.com/malwarebytes-alternatives"
-		},
-		{
-			"text": "Pi-hole",
-			"link": "https://www.saashub.com/pi-hole-alternatives"
-		},
-		{
-			"text": "✓\nNetumo",
-			"link": "https://www.saashub.com/netumo-alternatives"
-		},
-		{
-			"text": "SolarWinds NPM",
-			"link": "https://www.saashub.com/solarwinds-npm-alternatives"
-		},
-		{
-			"text": "Speccy",
-			"link": "https://www.saashub.com/speccy-alternatives"
-		},
-		{
-			"text": "Druva inSync",
-			"link": "https://www.saashub.com/druva-insync-alternatives"
-		},
-		{
-			"text": "GlassWire",
-			"link": "https://www.saashub.com/glasswire-alternatives"
-		},
-		{
-			"text": "Kaspersky Endpoint Security",
-			"link": "https://www.saashub.com/kaspersky-endpoint-security-alternatives"
-		},
-		{
-			"text": "✓\nDCImanager",
-			"link": "https://www.saashub.com/dcimanager-alternatives"
-		},
-		{
-			"text": "TinyWall",
-			"link": "https://www.saashub.com/tinywall-alternatives"
-		},
-		{
-			"text": "htop",
-			"link": "https://www.saashub.com/htop-alternatives"
-		},
-		{
-			"text": "✓\nManageEngine EventLog Analyzer",
-			"link": "https://www.saashub.com/manageengine-eventlog-analyzer?ref=featured&src=list"
-		},
-		{
-			"text": "Wazuh",
-			"link": "https://www.saashub.com/wazuh-alternatives"
-		},
-		{
-			"text": "SolarWinds Backup",
-			"link": "https://www.saashub.com/solarwinds-backup-alternatives"
-		},
-		{
-			"text": "PhotoRec",
-			"link": "https://www.saashub.com/photorec-alternatives"
-		},
-		{
-			"text": "pfSense",
-			"link": "https://www.saashub.com/pfsense-alternatives"
-		},
-		{
-			"text": "Code42",
-			"link": "https://www.saashub.com/code42-alternatives"
-		},
-		{
-			"text": "Zoho Assist",
-			"link": "https://www.saashub.com/zoho-assist-alternatives"
-		},
-		{
-			"text": "Uptime Kuma",
-			"link": "https://www.saashub.com/uptime-kuma-alternatives"
-		},
-		{
-			"text": "FlexiSPY",
-			"link": "https://www.saashub.com/flexispy-alternatives"
-		},
-		{
-			"text": "SpeedOf.Me",
-			"link": "https://www.saashub.com/speedof-me-alternatives"
-		},
-		{
-			"text": "Matillion",
-			"link": "https://www.saashub.com/matillion-alternatives"
-		},
-		{
-			"text": "Blokada",
-			"link": "https://www.saashub.com/blokada-alternatives"
-		},
-		{
-			"text": "ActivTrak",
-			"link": "https://www.saashub.com/activtrak-alternatives"
-		},
-		{
-			"text": "Kaseya VSA",
-			"link": "https://www.saashub.com/kaseya-vsa-alternatives"
-		},
-		{
-			"text": "✓\nImmuniWeb",
-			"link": "https://www.saashub.com/immuniweb?ref=featured&src=list"
-		},
-		{
-			"text": "HWINFO",
-			"link": "https://www.saashub.com/hwinfo-alternatives"
-		},
-		{
-			"text": "logstash",
-			"link": "https://www.saashub.com/logstash-alternatives"
-		},
-		{
-			"text": "EaseUS Data Recovery Wizard",
-			"link": "https://www.saashub.com/easeus-data-recovery-wizard-alternatives"
-		},
-		{
-			"text": "Talend Data Services Platform",
-			"link": "https://www.saashub.com/talend-data-services-platform-alternatives"
-		},
-		{
-			"text": "AlienVault USM (from AT&T Cybersecurity)",
-			"link": "https://www.saashub.com/alienvault-usm-from-atandt-cybersecurity-alternatives"
-		},
-		{
-			"text": "Speed Test by Cloudflare",
-			"link": "https://www.saashub.com/speed-test-by-cloudflare-alternatives"
-		},
-		{
-			"text": "Talend Data Integration",
-			"link": "https://www.saashub.com/talend-data-integration-alternatives"
-		},
-		{
-			"text": "Goverlan",
-			"link": "https://www.saashub.com/goverlan-alternatives"
-		},
-		{
-			"text": "Cisco DNA Center",
-			"link": "https://www.saashub.com/cisco-dna-center-alternatives"
-		},
-		{
-			"text": "✓\nManageEngine RecoveryManager Plus",
-			"link": "https://www.saashub.com/manageengine-recoverymanager-plus-alternatives"
-		},
-		{
-			"text": "McAfee Endpoint Security",
-			"link": "https://www.saashub.com/mcafee-endpoint-security-alternatives"
-		},
-		{
-			"text": "DBeaver",
-			"link": "https://www.saashub.com/dbeaver-alternatives"
-		},
-		{
-			"text": "Stats",
-			"link": "https://www.saashub.com/stats-alternatives"
-		},
-		{
-			"text": "✓\nAirDroid Business",
-			"link": "https://www.saashub.com/airdroid-business?ref=featured&src=list"
-		},
-		{
-			"text": "Open Hardware Monitor",
-			"link": "https://www.saashub.com/open-hardware-monitor-alternatives"
-		},
-		{
-			"text": "NetWrix Auditor",
-			"link": "https://www.saashub.com/netwrix-auditor-alternatives"
-		},
-		{
-			"text": "Process Monitor",
-			"link": "https://www.saashub.com/process-monitor-alternatives"
-		},
-		{
-			"text": "Hack The Box",
-			"link": "https://www.saashub.com/hack-the-box-alternatives"
-		},
-		{
-			"text": "Jamf Pro",
-			"link": "https://www.saashub.com/jamf-pro-alternatives"
-		},
-		{
-			"text": "ConnectWise Control",
-			"link": "https://www.saashub.com/connectwise-control-alternatives"
-		},
-		{
-			"text": "Angry IP Scanner",
-			"link": "https://www.saashub.com/angry-ip-scanner-alternatives"
-		},
-		{
-			"text": "GoToAssist",
-			"link": "https://www.saashub.com/gotoassist-alternatives"
-		},
-		{
-			"text": "AIDA64",
-			"link": "https://www.saashub.com/aida64-alternatives"
-		},
-		{
-			"text": "Burp Suite",
-			"link": "https://www.saashub.com/burp-suite-alternatives"
-		},
-		{
-			"text": "✓\nCyclr",
-			"link": "https://www.saashub.com/cyclr-alternatives"
-		},
-		{
-			"text": "Visualping",
-			"link": "https://www.saashub.com/visualping-alternatives"
-		},
-		{
-			"text": "Autoruns",
-			"link": "https://www.saashub.com/autoruns-alternatives"
-		},
-		{
-			"text": "✓\nImmuniWeb",
-			"link": "https://www.saashub.com/immuniweb?ref=featured&src=list"
-		},
-		{
-			"text": "OpsGenie",
-			"link": "https://www.saashub.com/opsgenie-alternatives"
-		},
-		{
-			"text": "Open Telemetry",
-			"link": "https://www.saashub.com/open-telemetry-alternatives"
-		},
-		{
-			"text": "SonicWall",
-			"link": "https://www.saashub.com/sonicwall-alternatives"
-		},
-		{
-			"text": "AdGuard",
-			"link": "https://www.saashub.com/adguard-alternatives"
-		},
-		{
-			"text": "Scalefusion",
-			"link": "https://www.saashub.com/scalefusion-alternatives"
-		},
-		{
-			"text": "Best Free Keylogger",
-			"link": "https://www.saashub.com/best-free-keylogger-alternatives"
-		},
-		{
-			"text": "Logz.io",
-			"link": "https://www.saashub.com/logz-io-alternatives"
-		},
-		{
-			"text": "dr.fone toolkit",
-			"link": "https://www.saashub.com/dr-fone-toolkit-alternatives"
-		},
-		{
-			"text": "Cisco ACI",
-			"link": "https://www.saashub.com/cisco-aci-alternatives"
-		},
-		{
-			"text": "Cisco Umbrella",
-			"link": "https://www.saashub.com/cisco-umbrella-alternatives"
-		},
-		{
-			"text": "Shodan",
-			"link": "https://www.saashub.com/shodan-alternatives"
-		},
-		{
-			"text": "SpeedFan",
-			"link": "https://www.saashub.com/speedfan-alternatives"
-		},
-		{
-			"text": "HD Tune",
-			"link": "https://www.saashub.com/hd-tune-alternatives"
-		},
-		{
-			"text": "✓\nHyperview",
-			"link": "https://www.saashub.com/hyperview?ref=featured&src=list"
-		},
-		{
-			"text": "BleachBit",
-			"link": "https://www.saashub.com/bleachbit-alternatives"
-		},
-		{
-			"text": "Device42",
-			"link": "https://www.saashub.com/device42-alternatives"
-		},
-		{
-			"text": "Windows 10 Firewall Control",
-			"link": "https://www.saashub.com/windows-10-firewall-control-alternatives"
-		},
-		{
-			"text": "Addigy",
-			"link": "https://www.saashub.com/addigy-alternatives"
-		},
-		{
-			"text": "Hexnode MDM",
-			"link": "https://www.saashub.com/hexnode-mdm-alternatives"
-		},
-		{
-			"text": "Checkmk",
-			"link": "https://www.saashub.com/checkmk-alternatives"
-		},
-		{
-			"text": "RapidSpike",
-			"link": "https://www.saashub.com/rapidspike-alternatives"
-		},
-		{
-			"text": "Amazon GuardDuty",
-			"link": "https://www.saashub.com/amazon-guardduty-alternatives"
-		},
-		{
-			"text": "Paessler PRTG",
-			"link": "https://www.saashub.com/paessler-prtg-alternatives"
-		},
-		{
-			"text": "Firefox Monitor",
-			"link": "https://www.saashub.com/firefox-monitor-alternatives"
-		},
-		{
-			"text": "Zenmap",
-			"link": "https://www.saashub.com/zenmap-alternatives"
-		},
-		{
-			"text": "Little Snitch",
-			"link": "https://www.saashub.com/little-snitch-alternatives"
-		},
-		{
-			"text": "Postman",
-			"link": "https://www.saashub.com/postman-alternatives"
-		},
-		{
-			"text": "✓\nManageEngine Log360",
-			"link": "https://www.saashub.com/manageengine-log360?ref=featured&src=list"
-		},
-		{
-			"text": "Revo Uninstaller",
-			"link": "https://www.saashub.com/revo-uninstaller-alternatives"
-		},
-		{
-			"text": "✓\nBetter Uptime",
-			"link": "https://www.saashub.com/better-uptime-alternatives"
-		},
-		{
-			"text": "ManageEngine Desktop Central",
-			"link": "https://www.saashub.com/manageengine-desktop-central-alternatives"
-		},
-		{
-			"text": "Wallpapers",
-			"link": "https://www.saashub.com/wallpapers-alternatives"
-		},
-		{
-			"text": "Icinga",
-			"link": "https://www.saashub.com/icinga-alternatives"
-		},
-		{
-			"text": "URLscan.io",
-			"link": "https://www.saashub.com/urlscan-io-alternatives"
-		},
-		{
-			"text": "DownDetector",
-			"link": "https://www.saashub.com/downdetector-alternatives"
-		},
-		{
-			"text": "Tenable.io",
-			"link": "https://www.saashub.com/tenable-io-alternatives"
-		},
-		{
-			"text": "Xplenty",
-			"link": "https://www.saashub.com/xplenty-alternatives"
-		},
-		{
-			"text": "RackTables",
-			"link": "https://www.saashub.com/racktables-alternatives"
-		},
-		{
-			"text": "Symantec Data Loss Prevention",
-			"link": "https://www.saashub.com/symantec-data-loss-prevention-alternatives"
-		},
-		{
-			"text": "Cuckoo Sandbox",
-			"link": "https://www.saashub.com/cuckoo-sandbox-alternatives"
-		},
-		{
-			"text": "GeekUninstaller",
-			"link": "https://www.saashub.com/geekuninstaller-alternatives"
-		},
-		{
-			"text": "✓\nImmuniWeb",
-			"link": "https://www.saashub.com/immuniweb?ref=featured&src=list"
-		},
-		{
-			"text": "✓\nCatchpoint",
-			"link": "https://www.saashub.com/catchpoint-alternatives"
-		},
-		{
-			"text": "Rainmeter",
-			"link": "https://www.saashub.com/rainmeter-alternatives"
-		},
-		{
-			"text": "Fluentd",
-			"link": "https://www.saashub.com/fluentd-alternatives"
-		},
-		{
-			"text": "OpenDNS Umbrella",
-			"link": "https://www.saashub.com/opendns-umbrella-alternatives"
-		},
-		{
-			"text": "VirusTotal",
-			"link": "https://www.saashub.com/virustotal-alternatives"
-		},
-		{
-			"text": "LibreNMS",
-			"link": "https://www.saashub.com/librenms-alternatives"
-		},
-		{
-			"text": "Talend",
-			"link": "https://www.saashub.com/talend-alternatives"
-		},
-		{
-			"text": "Lastpass",
-			"link": "https://www.saashub.com/lastpass-alternatives"
-		},
-		{
-			"text": "Greenify",
-			"link": "https://www.saashub.com/greenify-alternatives"
-		},
-		{
-			"text": "SE Ranking",
-			"link": "https://www.saashub.com/se-ranking-alternatives"
-		},
-		{
-			"text": "Snipe-IT",
-			"link": "https://www.saashub.com/snipe-it-alternatives"
-		},
-		{
-			"text": "Any.Run",
-			"link": "https://www.saashub.com/any-run-alternatives"
-		},
-		{
-			"text": "MiniTool Power Data Recovery",
-			"link": "https://www.saashub.com/minitool-power-data-recovery-alternatives"
-		},
-		{
-			"text": "✓\nAirDroid Business",
-			"link": "https://www.saashub.com/airdroid-business?ref=featured&src=list"
-		},
-		{
-			"text": "Conky",
-			"link": "https://www.saashub.com/conky-alternatives"
-		},
-		{
-			"text": "DeHashed",
-			"link": "https://www.saashub.com/dehashed-alternatives"
-		},
-		{
-			"text": "Heroku Enterprise",
-			"link": "https://www.saashub.com/heroku-enterprise-alternatives"
-		},
-		{
-			"text": "Ansible",
-			"link": "https://www.saashub.com/ansible-alternatives"
-		},
-		{
-			"text": "Filehippo",
-			"link": "https://www.saashub.com/filehippo-alternatives"
-		},
-		{
-			"text": "✓\nRippling",
-			"link": "https://www.saashub.com/rippling-alternatives"
-		},
-		{
-			"text": "Microsoft Intune",
-			"link": "https://www.saashub.com/microsoft-intune-alternatives"
-		},
-		{
-			"text": "uBlock Origin",
-			"link": "https://www.saashub.com/ublock-origin-alternatives"
-		},
-		{
-			"text": "iKeyMonitor",
-			"link": "https://www.saashub.com/ikeymonitor-alternatives"
-		},
-		{
-			"text": "Backblaze",
-			"link": "https://www.saashub.com/backblaze-alternatives"
-		},
-		{
-			"text": "Trend Micro Deep Security",
-			"link": "https://www.saashub.com/trend-micro-deep-security-alternatives"
-		},
-		{
-			"text": "Ivanti Unified Endpoint Manager",
-			"link": "https://www.saashub.com/ivanti-unified-endpoint-manager-alternatives"
-		},
-		{
-			"text": "The Dude",
-			"link": "https://www.saashub.com/the-dude-alternatives"
-		},
-		{
-			"text": "✓\nImmuniWeb",
-			"link": "https://www.saashub.com/immuniweb?ref=featured&src=list"
-		},
-		{
-			"text": "Paessler",
-			"link": "https://www.saashub.com/paessler-alternatives"
-		},
-		{
-			"text": "Jenkins",
-			"link": "https://www.saashub.com/jenkins-alternatives"
-		},
-		{
-			"text": "phpIPAM",
-			"link": "https://www.saashub.com/phpipam-alternatives"
-		},
-		{
-			"text": "SECDO",
-			"link": "https://www.saashub.com/secdo-alternatives"
-		},
-		{
-			"text": "Cylance",
-			"link": "https://www.saashub.com/cylance-alternatives"
-		},
-		{
-			"text": "✓\nManageEngine EventLog Analyzer",
-			"link": "https://www.saashub.com/manageengine-eventlog-analyzer-alternatives"
-		},
-		{
-			"text": "nginx",
-			"link": "https://www.saashub.com/nginx-alternatives"
-		},
-		{
-			"text": "DiskGenius",
-			"link": "https://www.saashub.com/diskgenius-alternatives"
-		},
-		{
-			"text": "XNSPY",
-			"link": "https://www.saashub.com/xnspy-alternatives"
-		},
-		{
-			"text": "glances system monitoring",
-			"link": "https://www.saashub.com/glances-system-monitoring-alternatives"
-		},
-		{
-			"text": "CleanMyMac X",
-			"link": "https://www.saashub.com/cleanmymac-x-alternatives"
-		},
-		{
-			"text": "Accubattery",
-			"link": "https://www.saashub.com/accubattery-alternatives"
-		},
-		{
-			"text": "Adblock Plus",
-			"link": "https://www.saashub.com/adblock-plus-alternatives"
-		},
-		{
-			"text": "✓\nImmuniWeb",
-			"link": "https://www.saashub.com/immuniweb?ref=featured&src=list"
-		},
-		{
-			"text": "Docker Hub",
-			"link": "https://www.saashub.com/docker-hub-alternatives"
-		},
-		{
-			"text": "NIXStats",
-			"link": "https://www.saashub.com/nixstats-alternatives"
-		},
-		{
-			"text": "Advanced IP Scanner",
-			"link": "https://www.saashub.com/advanced-ip-scanner-alternatives"
-		},
-		{
-			"text": "AdBlock",
-			"link": "https://www.saashub.com/adblock-alternatives"
-		},
-		{
-			"text": "OpenNMS",
-			"link": "https://www.saashub.com/opennms-alternatives"
-		},
-		{
-			"text": "VNC Connect",
-			"link": "https://www.saashub.com/vnc-connect-alternatives"
-		},
-		{
-			"text": "Opendcim",
-			"link": "https://www.saashub.com/opendcim-alternatives"
-		},
-		{
-			"text": "Lookout",
-			"link": "https://www.saashub.com/lookout-alternatives"
-		},
-		{
-			"text": "Egnyte",
-			"link": "https://www.saashub.com/egnyte-alternatives"
-		},
-		{
-			"text": "Oracle IT Service Management Suite",
-			"link": "https://www.saashub.com/oracle-it-service-management-suite-alternatives"
-		},
-		{
-			"text": "Kibana",
-			"link": "https://www.saashub.com/kibana-alternatives"
-		},
-		{
-			"text": "Uptime.com",
-			"link": "https://www.saashub.com/uptime-com-alternatives"
-		},
-		{
-			"text": "Pandora FMS",
-			"link": "https://www.saashub.com/pandora-fms-alternatives"
-		},
-		{
-			"text": "✓\nlogit.io",
-			"link": "https://www.saashub.com/logit-io?ref=featured&src=list"
-		},
-		{
-			"text": "iShredder",
-			"link": "https://www.saashub.com/ishredder-alternatives"
-		},
-		{
-			"text": "Okta",
-			"link": "https://www.saashub.com/okta-alternatives"
-		},
-		{
-			"text": "locust",
-			"link": "https://www.saashub.com/locust-alternatives"
-		},
-		{
-			"text": "Hard Disk Sentinel",
-			"link": "https://www.saashub.com/hard-disk-sentinel-alternatives"
-		},
-		{
-			"text": "LeakCheck",
-			"link": "https://www.saashub.com/leakcheck-alternatives"
-		},
-		{
-			"text": "Lansweeper",
-			"link": "https://www.saashub.com/lansweeper-alternatives"
-		},
-		{
-			"text": "Fing",
-			"link": "https://www.saashub.com/fing-alternatives"
-		},
-		{
-			"text": "Comodo Firewall",
-			"link": "https://www.saashub.com/comodo-firewall-alternatives"
-		},
-		{
-			"text": "Snusbase",
-			"link": "https://www.saashub.com/snusbase-alternatives"
-		},
-		{
-			"text": "coconutBattery",
-			"link": "https://www.saashub.com/coconutbattery-alternatives"
-		},
-		{
-			"text": "Acunetix",
-			"link": "https://www.saashub.com/acunetix-alternatives"
-		},
-		{
-			"text": "SAP PowerDesigner",
-			"link": "https://www.saashub.com/sap-powerdesigner-alternatives"
-		},
-		{
-			"text": "FileHorse.com",
-			"link": "https://www.saashub.com/filehorse-com-alternatives"
-		},
-		{
-			"text": "✓\nNinjaOne",
-			"link": "https://www.saashub.com/ninjaone?ref=featured&src=list"
-		},
-		{
-			"text": "Nutanix Beam",
-			"link": "https://www.saashub.com/nutanix-beam-alternatives"
-		},
-		{
-			"text": "iperf",
-			"link": "https://www.saashub.com/iperf-alternatives"
-		},
-		{
-			"text": "ThousandEyes",
-			"link": "https://www.saashub.com/thousandeyes-alternatives"
-		},
-		{
-			"text": "Enlight Pixaloop",
-			"link": "https://www.saashub.com/enlight-pixaloop-alternatives"
-		},
-		{
-			"text": "OpenVAS",
-			"link": "https://www.saashub.com/openvas-alternatives"
-		},
-		{
-			"text": "NAKIVO Backup & Replication",
-			"link": "https://www.saashub.com/nakivo-backup-and-replication-alternatives"
-		},
-		{
-			"text": "✓\nWebTitan",
-			"link": "https://www.saashub.com/webtitan-alternatives"
-		},
-		{
-			"text": "Eraser",
-			"link": "https://www.saashub.com/eraser-alternatives"
-		},
-		{
-			"text": "Darktrace",
-			"link": "https://www.saashub.com/darktrace-alternatives"
-		},
-		{
-			"text": "Control-m",
-			"link": "https://www.saashub.com/control-m-alternatives"
-		},
-		{
-			"text": "BigPanda",
-			"link": "https://www.saashub.com/bigpanda-alternatives"
-		},
-		{
-			"text": "CrashPlan",
-			"link": "https://www.saashub.com/crashplan-alternatives"
-		},
-		{
-			"text": "Authentic8 Silo",
-			"link": "https://www.saashub.com/authentic8-silo-alternatives"
-		},
-		{
-			"text": "✓\nHyperview",
-			"link": "https://www.saashub.com/hyperview?ref=featured&src=list"
-		},
-		{
-			"text": "Barracuda CloudGen Firewall",
-			"link": "https://www.saashub.com/barracuda-cloudgen-firewall-alternatives"
-		},
-		{
-			"text": "Panda Security",
-			"link": "https://www.saashub.com/panda-security-alternatives"
-		},
-		{
-			"text": "MxToolBox",
-			"link": "https://www.saashub.com/mxtoolbox-alternatives"
-		},
-		{
-			"text": "Pulseway",
-			"link": "https://www.saashub.com/pulseway-alternatives"
-		},
-		{
-			"text": "CrystalMark",
-			"link": "https://www.saashub.com/crystalmark-alternatives"
-		},
-		{
-			"text": "✓\nHetrixTools",
-			"link": "https://www.saashub.com/hetrixtools-alternatives"
-		},
-		{
-			"text": "Zscaler Internet Access",
-			"link": "https://www.saashub.com/zscaler-internet-access-alternatives"
-		},
-		{
-			"text": "SmokePing",
-			"link": "https://www.saashub.com/smokeping-alternatives"
-		},
-		{
-			"text": "Acronis Backup and Recovery",
-			"link": "https://www.saashub.com/acronis-backup-and-recovery-alternatives"
-		},
-		{
-			"text": "New Relic APM",
-			"link": "https://www.saashub.com/new-relic-apm-alternatives"
-		},
-		{
-			"text": "Qustodio",
-			"link": "https://www.saashub.com/qustodio-alternatives"
-		},
-		{
-			"text": "Traverse Monitoring",
-			"link": "https://www.saashub.com/traverse-monitoring-alternatives"
-		},
-		{
-			"text": "✓\nHealthchecks.io",
-			"link": "https://www.saashub.com/healthchecks-io-alternatives"
-		},
-		{
-			"text": "✓\nLevel.io",
-			"link": "https://www.saashub.com/level-io?ref=featured&src=list"
-		},
-		{
-			"text": "SponsorBlock",
-			"link": "https://www.saashub.com/sponsorblock-alternatives"
-		},
-		{
-			"text": "Monitis",
-			"link": "https://www.saashub.com/monitis-alternatives"
-		},
-		{
-			"text": "GhostProject.fr",
-			"link": "https://www.saashub.com/ghostproject-fr-alternatives"
-		},
-		{
-			"text": "LNAV",
-			"link": "https://www.saashub.com/lnav-alternatives"
-		}
-	]
+  "categoryName": "",
+  "services": [
+    {
+      "text": "Datadog",
+      "link": "https://www.saashub.com/datadog-alternatives"
+    },
+    {
+      "text": "Zabbix",
+      "link": "https://www.saashub.com/zabbix-alternatives"
+    },
+    {
+      "text": "ImmuniWeb",
+      "link": "https://www.saashub.com/immuniweb?ref=featured&src="
+    },
+    {
+      "text": "Speedtest.net",
+      "link": "https://www.saashub.com/speedtest-net-alternatives"
+    },
+    {
+      "text": "Fast.com",
+      "link": "https://www.saashub.com/fast-com-alternatives"
+    },
+    {
+      "text": "Prometheus",
+      "link": "https://www.saashub.com/prometheus-alternatives"
+    },
+    {
+      "text": "UptimeRobot",
+      "link": "https://www.saashub.com/uptimerobot-alternatives"
+    },
+    {
+      "text": "Grafana",
+      "link": "https://www.saashub.com/grafana-alternatives"
+    },
+    {
+      "text": "Dynatrace",
+      "link": "https://www.saashub.com/dynatrace-alternatives"
+    },
+    {
+      "text": "Pingdom",
+      "link": "https://www.saashub.com/pingdom-alternatives"
+    },
+    {
+      "text": "NewRelic",
+      "link": "https://www.saashub.com/newrelic-alternatives"
+    },
+    {
+      "text": "Nagios",
+      "link": "https://www.saashub.com/nagios-alternatives"
+    },
+    {
+      "text": "LogicMonitor",
+      "link": "https://www.saashub.com/logicmonitor-alternatives"
+    },
+    {
+      "text": "Nmap",
+      "link": "https://www.saashub.com/nmap-alternatives"
+    },
+    {
+      "text": "NinjaOne",
+      "link": "https://www.saashub.com/ninjaone-alternatives"
+    },
+    {
+      "text": "Wireshark",
+      "link": "https://www.saashub.com/wireshark-alternatives"
+    },
+    {
+      "text": "ImmuniWeb",
+      "link": "https://www.saashub.com/immuniweb?ref=featured&src=list"
+    },
+    {
+      "text": "Qualys",
+      "link": "https://www.saashub.com/qualys-alternatives"
+    },
+    {
+      "text": "AppDynamics",
+      "link": "https://www.saashub.com/appdynamics-alternatives"
+    },
+    {
+      "text": "Nessus",
+      "link": "https://www.saashub.com/nessus-alternatives"
+    },
+    {
+      "text": "Glary Utilities",
+      "link": "https://www.saashub.com/glary-utilities-alternatives"
+    },
+    {
+      "text": "Site24x7",
+      "link": "https://www.saashub.com/site24x7-alternatives"
+    },
+    {
+      "text": "StatusCake",
+      "link": "https://www.saashub.com/statuscake-alternatives"
+    },
+    {
+      "text": "PagerDuty",
+      "link": "https://www.saashub.com/pagerduty-alternatives"
+    },
+    {
+      "text": "Recuva",
+      "link": "https://www.saashub.com/recuva-alternatives"
+    },
+    {
+      "text": "Sumo Logic",
+      "link": "https://www.saashub.com/sumo-logic-alternatives"
+    },
+    {
+      "text": "LogMeIn Central",
+      "link": "https://www.saashub.com/logmein-central-alternatives"
+    },
+    {
+      "text": "Process Explorer",
+      "link": "https://www.saashub.com/process-explorer-alternatives"
+    },
+    {
+      "text": "Symantec Endpoint Encryption",
+      "link": "https://www.saashub.com/symantec-endpoint-encryption-alternatives"
+    },
+    {
+      "text": "Splunk",
+      "link": "https://www.saashub.com/splunk-alternatives"
+    },
+    {
+      "text": "AirDroid Business",
+      "link": "https://www.saashub.com/airdroid-business?ref=featured&src=list"
+    },
+    {
+      "text": "CPU-Z",
+      "link": "https://www.saashub.com/cpu-z-alternatives"
+    },
+    {
+      "text": "TeamViewer",
+      "link": "https://www.saashub.com/teamviewer-alternatives"
+    },
+    {
+      "text": "CCleaner",
+      "link": "https://www.saashub.com/ccleaner-alternatives"
+    },
+    {
+      "text": "have i been pwned?",
+      "link": "https://www.saashub.com/have-i-been-pwned-alternatives"
+    },
+    {
+      "text": "TryHackMe",
+      "link": "https://www.saashub.com/tryhackme-alternatives"
+    },
+    {
+      "text": "TestDisk",
+      "link": "https://www.saashub.com/testdisk-alternatives"
+    },
+    {
+      "text": "Disk Drill by Cleverfiles",
+      "link": "https://www.saashub.com/disk-drill-by-cleverfiles-alternatives"
+    },
+    {
+      "text": "ESET Endpoint Security",
+      "link": "https://www.saashub.com/eset-endpoint-security-alternatives"
+    },
+    {
+      "text": "Sentry.io",
+      "link": "https://www.saashub.com/sentry-io-alternatives"
+    },
+    {
+      "text": "NetBox",
+      "link": "https://www.saashub.com/netbox-alternatives"
+    },
+    {
+      "text": "ManageEngine OpManager",
+      "link": "https://www.saashub.com/manageengine-opmanager-alternatives"
+    },
+    {
+      "text": "Netumo",
+      "link": "https://www.saashub.com/netumo-alternatives"
+    },
+    {
+      "text": "Freshservice",
+      "link": "https://www.saashub.com/freshservice-alternatives"
+    },
+    {
+      "text": "Safetica",
+      "link": "https://www.saashub.com/safetica?ref=featured&src=list"
+    },
+    {
+      "text": "Microsoft System Center",
+      "link": "https://www.saashub.com/microsoft-system-center-alternatives"
+    },
+    {
+      "text": "CrystalDiskInfo",
+      "link": "https://www.saashub.com/crystaldiskinfo-alternatives"
+    },
+    {
+      "text": "Splunk Enterprise",
+      "link": "https://www.saashub.com/splunk-enterprise-alternatives"
+    },
+    {
+      "text": "ConnectWise Automate",
+      "link": "https://www.saashub.com/connectwise-automate-alternatives"
+    },
+    {
+      "text": "Petrel E&P Software Platform",
+      "link": "https://www.saashub.com/petrel-eandp-software-platform-alternatives"
+    },
+    {
+      "text": "AppCleaner",
+      "link": "https://www.saashub.com/appcleaner-alternatives"
+    },
+    {
+      "text": "Amazon CloudWatch",
+      "link": "https://www.saashub.com/amazon-cloudwatch-alternatives"
+    },
+    {
+      "text": "Atera",
+      "link": "https://www.saashub.com/atera-alternatives"
+    },
+    {
+      "text": "Arcserve UDP",
+      "link": "https://www.saashub.com/arcserve-udp-alternatives"
+    },
+    {
+      "text": "Surfer",
+      "link": "https://www.saashub.com/surfer-alternatives"
+    },
+    {
+      "text": "Wazuh",
+      "link": "https://www.saashub.com/wazuh-alternatives"
+    },
+    {
+      "text": "Testmy.net",
+      "link": "https://www.saashub.com/testmy-net-alternatives"
+    },
+    {
+      "text": "iStat Menus",
+      "link": "https://www.saashub.com/istat-menus-alternatives"
+    },
+    {
+      "text": "logit.io",
+      "link": "https://www.saashub.com/logit-io?ref=featured&src=list"
+    },
+    {
+      "text": "Graylog",
+      "link": "https://www.saashub.com/graylog-alternatives"
+    },
+    {
+      "text": "Malwarebytes",
+      "link": "https://www.saashub.com/malwarebytes-alternatives"
+    },
+    {
+      "text": "SolarWinds NPM",
+      "link": "https://www.saashub.com/solarwinds-npm-alternatives"
+    },
+    {
+      "text": "Microsoft Operations Management Suite",
+      "link": "https://www.saashub.com/microsoft-operations-management-suite-alternatives"
+    },
+    {
+      "text": "Pi-hole",
+      "link": "https://www.saashub.com/pi-hole-alternatives"
+    },
+    {
+      "text": "Kaspersky Endpoint Security",
+      "link": "https://www.saashub.com/kaspersky-endpoint-security-alternatives"
+    },
+    {
+      "text": "Speccy",
+      "link": "https://www.saashub.com/speccy-alternatives"
+    },
+    {
+      "text": "myQuorum",
+      "link": "https://www.saashub.com/myquorum-alternatives"
+    },
+    {
+      "text": "GlassWire",
+      "link": "https://www.saashub.com/glasswire-alternatives"
+    },
+    {
+      "text": "Druva inSync",
+      "link": "https://www.saashub.com/druva-insync-alternatives"
+    },
+    {
+      "text": "TinyWall",
+      "link": "https://www.saashub.com/tinywall-alternatives"
+    },
+    {
+      "text": "htop",
+      "link": "https://www.saashub.com/htop-alternatives"
+    },
+    {
+      "text": "DCImanager",
+      "link": "https://www.saashub.com/dcimanager-alternatives"
+    },
+    {
+      "text": "ImmuniWeb",
+      "link": "https://www.saashub.com/immuniweb?ref=featured&src=list"
+    },
+    {
+      "text": "Uptime Kuma",
+      "link": "https://www.saashub.com/uptime-kuma-alternatives"
+    },
+    {
+      "text": "PhotoRec",
+      "link": "https://www.saashub.com/photorec-alternatives"
+    },
+    {
+      "text": "pfSense",
+      "link": "https://www.saashub.com/pfsense-alternatives"
+    },
+    {
+      "text": "SolarWinds Backup",
+      "link": "https://www.saashub.com/solarwinds-backup-alternatives"
+    },
+    {
+      "text": "AnyDesk",
+      "link": "https://www.saashub.com/anydesk-alternatives"
+    },
+    {
+      "text": "FlexiSPY",
+      "link": "https://www.saashub.com/flexispy-alternatives"
+    },
+    {
+      "text": "Code42",
+      "link": "https://www.saashub.com/code42-alternatives"
+    },
+    {
+      "text": "logstash",
+      "link": "https://www.saashub.com/logstash-alternatives"
+    },
+    {
+      "text": "SpeedOf.Me",
+      "link": "https://www.saashub.com/speedof-me-alternatives"
+    },
+    {
+      "text": "HWINFO",
+      "link": "https://www.saashub.com/hwinfo-alternatives"
+    },
+    {
+      "text": "Speed Test by Cloudflare",
+      "link": "https://www.saashub.com/speed-test-by-cloudflare-alternatives"
+    },
+    {
+      "text": "Zoho Assist",
+      "link": "https://www.saashub.com/zoho-assist-alternatives"
+    },
+    {
+      "text": "ActivTrak",
+      "link": "https://www.saashub.com/activtrak-alternatives"
+    },
+    {
+      "text": "AirDroid Business",
+      "link": "https://www.saashub.com/airdroid-business?ref=featured&src=list"
+    },
+    {
+      "text": "Matillion",
+      "link": "https://www.saashub.com/matillion-alternatives"
+    },
+    {
+      "text": "Blokada",
+      "link": "https://www.saashub.com/blokada-alternatives"
+    },
+    {
+      "text": "DBeaver",
+      "link": "https://www.saashub.com/dbeaver-alternatives"
+    },
+    {
+      "text": "Talend Data Integration",
+      "link": "https://www.saashub.com/talend-data-integration-alternatives"
+    },
+    {
+      "text": "Open Telemetry",
+      "link": "https://www.saashub.com/open-telemetry-alternatives"
+    },
+    {
+      "text": "Kaseya VSA",
+      "link": "https://www.saashub.com/kaseya-vsa-alternatives"
+    },
+    {
+      "text": "Talend Data Services Platform",
+      "link": "https://www.saashub.com/talend-data-services-platform-alternatives"
+    },
+    {
+      "text": "ManageEngine RecoveryManager Plus",
+      "link": "https://www.saashub.com/manageengine-recoverymanager-plus-alternatives"
+    },
+    {
+      "text": "AlienVault USM (from AT&T Cybersecurity)",
+      "link": "https://www.saashub.com/alienvault-usm-from-atandt-cybersecurity-alternatives"
+    },
+    {
+      "text": "EaseUS Data Recovery Wizard",
+      "link": "https://www.saashub.com/easeus-data-recovery-wizard-alternatives"
+    },
+    {
+      "text": "Hack The Box",
+      "link": "https://www.saashub.com/hack-the-box-alternatives"
+    },
+    {
+      "text": "Cyclr",
+      "link": "https://www.saashub.com/cyclr-alternatives"
+    },
+    {
+      "text": "McAfee Endpoint Security",
+      "link": "https://www.saashub.com/mcafee-endpoint-security-alternatives"
+    },
+    {
+      "text": "Safetica",
+      "link": "https://www.saashub.com/safetica?ref=featured&src=list"
+    },
+    {
+      "text": "Stats",
+      "link": "https://www.saashub.com/stats-alternatives"
+    },
+    {
+      "text": "Cisco DNA Center",
+      "link": "https://www.saashub.com/cisco-dna-center-alternatives"
+    },
+    {
+      "text": "NetWrix Auditor",
+      "link": "https://www.saashub.com/netwrix-auditor-alternatives"
+    },
+    {
+      "text": "Goverlan",
+      "link": "https://www.saashub.com/goverlan-alternatives"
+    },
+    {
+      "text": "Open Hardware Monitor",
+      "link": "https://www.saashub.com/open-hardware-monitor-alternatives"
+    },
+    {
+      "text": "AIDA64",
+      "link": "https://www.saashub.com/aida64-alternatives"
+    },
+    {
+      "text": "Process Monitor",
+      "link": "https://www.saashub.com/process-monitor-alternatives"
+    },
+    {
+      "text": "Visualping",
+      "link": "https://www.saashub.com/visualping-alternatives"
+    },
+    {
+      "text": "Jamf Pro",
+      "link": "https://www.saashub.com/jamf-pro-alternatives"
+    },
+    {
+      "text": "Autoruns",
+      "link": "https://www.saashub.com/autoruns-alternatives"
+    },
+    {
+      "text": "OpsGenie",
+      "link": "https://www.saashub.com/opsgenie-alternatives"
+    },
+    {
+      "text": "Angry IP Scanner",
+      "link": "https://www.saashub.com/angry-ip-scanner-alternatives"
+    },
+    {
+      "text": "AdGuard",
+      "link": "https://www.saashub.com/adguard-alternatives"
+    },
+    {
+      "text": "AirDroid Business",
+      "link": "https://www.saashub.com/airdroid-business?ref=featured&src=list"
+    },
+    {
+      "text": "Burp Suite",
+      "link": "https://www.saashub.com/burp-suite-alternatives"
+    },
+    {
+      "text": "SonicWall",
+      "link": "https://www.saashub.com/sonicwall-alternatives"
+    },
+    {
+      "text": "Scalefusion",
+      "link": "https://www.saashub.com/scalefusion-alternatives"
+    },
+    {
+      "text": "ConnectWise Control",
+      "link": "https://www.saashub.com/connectwise-control-alternatives"
+    },
+    {
+      "text": "Best Free Keylogger",
+      "link": "https://www.saashub.com/best-free-keylogger-alternatives"
+    },
+    {
+      "text": "Shodan",
+      "link": "https://www.saashub.com/shodan-alternatives"
+    },
+    {
+      "text": "Better Uptime",
+      "link": "https://www.saashub.com/better-uptime-alternatives"
+    },
+    {
+      "text": "Logz.io",
+      "link": "https://www.saashub.com/logz-io-alternatives"
+    },
+    {
+      "text": "Device42",
+      "link": "https://www.saashub.com/device42-alternatives"
+    },
+    {
+      "text": "Cisco ACI",
+      "link": "https://www.saashub.com/cisco-aci-alternatives"
+    },
+    {
+      "text": "SpeedFan",
+      "link": "https://www.saashub.com/speedfan-alternatives"
+    },
+    {
+      "text": "Checkmk",
+      "link": "https://www.saashub.com/checkmk-alternatives"
+    },
+    {
+      "text": "Amazon GuardDuty",
+      "link": "https://www.saashub.com/amazon-guardduty-alternatives"
+    },
+    {
+      "text": "AirDroid Business",
+      "link": "https://www.saashub.com/airdroid-business?ref=featured&src=list"
+    },
+    {
+      "text": "GoToAssist",
+      "link": "https://www.saashub.com/gotoassist-alternatives"
+    },
+    {
+      "text": "Windows 10 Firewall Control",
+      "link": "https://www.saashub.com/windows-10-firewall-control-alternatives"
+    },
+    {
+      "text": "Paessler PRTG",
+      "link": "https://www.saashub.com/paessler-prtg-alternatives"
+    },
+    {
+      "text": "RapidSpike",
+      "link": "https://www.saashub.com/rapidspike-alternatives"
+    },
+    {
+      "text": "Icinga",
+      "link": "https://www.saashub.com/icinga-alternatives"
+    },
+    {
+      "text": "URLscan.io",
+      "link": "https://www.saashub.com/urlscan-io-alternatives"
+    },
+    {
+      "text": "Addigy",
+      "link": "https://www.saashub.com/addigy-alternatives"
+    },
+    {
+      "text": "dr.fone toolkit",
+      "link": "https://www.saashub.com/dr-fone-toolkit-alternatives"
+    },
+    {
+      "text": "Cisco Umbrella",
+      "link": "https://www.saashub.com/cisco-umbrella-alternatives"
+    },
+    {
+      "text": "HD Tune",
+      "link": "https://www.saashub.com/hd-tune-alternatives"
+    },
+    {
+      "text": "Little Snitch",
+      "link": "https://www.saashub.com/little-snitch-alternatives"
+    },
+    {
+      "text": "Wallpapers",
+      "link": "https://www.saashub.com/wallpapers-alternatives"
+    },
+    {
+      "text": "BleachBit",
+      "link": "https://www.saashub.com/bleachbit-alternatives"
+    },
+    {
+      "text": "ImmuniWeb",
+      "link": "https://www.saashub.com/immuniweb?ref=featured&src=list"
+    },
+    {
+      "text": "ManageEngine Desktop Central",
+      "link": "https://www.saashub.com/manageengine-desktop-central-alternatives"
+    },
+    {
+      "text": "Revo Uninstaller",
+      "link": "https://www.saashub.com/revo-uninstaller-alternatives"
+    },
+    {
+      "text": "Zenmap",
+      "link": "https://www.saashub.com/zenmap-alternatives"
+    },
+    {
+      "text": "Postman",
+      "link": "https://www.saashub.com/postman-alternatives"
+    },
+    {
+      "text": "LibreNMS",
+      "link": "https://www.saashub.com/librenms-alternatives"
+    },
+    {
+      "text": "Hexnode MDM",
+      "link": "https://www.saashub.com/hexnode-mdm-alternatives"
+    },
+    {
+      "text": "DownDetector",
+      "link": "https://www.saashub.com/downdetector-alternatives"
+    },
+    {
+      "text": "Firefox Monitor",
+      "link": "https://www.saashub.com/firefox-monitor-alternatives"
+    },
+    {
+      "text": "ManageEngine EventLog Analyzer",
+      "link": "https://www.saashub.com/manageengine-eventlog-analyzer-alternatives"
+    },
+    {
+      "text": "VirusTotal",
+      "link": "https://www.saashub.com/virustotal-alternatives"
+    },
+    {
+      "text": "Catchpoint",
+      "link": "https://www.saashub.com/catchpoint-alternatives"
+    },
+    {
+      "text": "Microsoft Intune",
+      "link": "https://www.saashub.com/microsoft-intune-alternatives"
+    },
+    {
+      "text": "Cuckoo Sandbox",
+      "link": "https://www.saashub.com/cuckoo-sandbox-alternatives"
+    },
+    {
+      "text": "logit.io",
+      "link": "https://www.saashub.com/logit-io?ref=featured&src=list"
+    },
+    {
+      "text": "Fluentd",
+      "link": "https://www.saashub.com/fluentd-alternatives"
+    },
+    {
+      "text": "Rainmeter",
+      "link": "https://www.saashub.com/rainmeter-alternatives"
+    },
+    {
+      "text": "RackTables",
+      "link": "https://www.saashub.com/racktables-alternatives"
+    },
+    {
+      "text": "Conky",
+      "link": "https://www.saashub.com/conky-alternatives"
+    },
+    {
+      "text": "Tenable.io",
+      "link": "https://www.saashub.com/tenable-io-alternatives"
+    },
+    {
+      "text": "Greenify",
+      "link": "https://www.saashub.com/greenify-alternatives"
+    },
+    {
+      "text": "Ansible",
+      "link": "https://www.saashub.com/ansible-alternatives"
+    },
+    {
+      "text": "Xplenty",
+      "link": "https://www.saashub.com/xplenty-alternatives"
+    },
+    {
+      "text": "Symantec Data Loss Prevention",
+      "link": "https://www.saashub.com/symantec-data-loss-prevention-alternatives"
+    },
+    {
+      "text": "Backblaze",
+      "link": "https://www.saashub.com/backblaze-alternatives"
+    },
+    {
+      "text": "Filehippo",
+      "link": "https://www.saashub.com/filehippo-alternatives"
+    },
+    {
+      "text": "Heroku Enterprise",
+      "link": "https://www.saashub.com/heroku-enterprise-alternatives"
+    },
+    {
+      "text": "DiskGenius",
+      "link": "https://www.saashub.com/diskgenius-alternatives"
+    },
+    {
+      "text": "ImmuniWeb",
+      "link": "https://www.saashub.com/immuniweb?ref=featured&src=list"
+    },
+    {
+      "text": "Snipe-IT",
+      "link": "https://www.saashub.com/snipe-it-alternatives"
+    },
+    {
+      "text": "phpIPAM",
+      "link": "https://www.saashub.com/phpipam-alternatives"
+    },
+    {
+      "text": "OpenDNS Umbrella",
+      "link": "https://www.saashub.com/opendns-umbrella-alternatives"
+    },
+    {
+      "text": "GeekUninstaller",
+      "link": "https://www.saashub.com/geekuninstaller-alternatives"
+    },
+    {
+      "text": "iKeyMonitor",
+      "link": "https://www.saashub.com/ikeymonitor-alternatives"
+    },
+    {
+      "text": "DeHashed",
+      "link": "https://www.saashub.com/dehashed-alternatives"
+    },
+    {
+      "text": "Trend Micro Deep Security",
+      "link": "https://www.saashub.com/trend-micro-deep-security-alternatives"
+    },
+    {
+      "text": "Any.Run",
+      "link": "https://www.saashub.com/any-run-alternatives"
+    },
+    {
+      "text": "Talend",
+      "link": "https://www.saashub.com/talend-alternatives"
+    },
+    {
+      "text": "Jenkins",
+      "link": "https://www.saashub.com/jenkins-alternatives"
+    },
+    {
+      "text": "Lastpass",
+      "link": "https://www.saashub.com/lastpass-alternatives"
+    },
+    {
+      "text": "The Dude",
+      "link": "https://www.saashub.com/the-dude-alternatives"
+    },
+    {
+      "text": "Kibana",
+      "link": "https://www.saashub.com/kibana-alternatives"
+    },
+    {
+      "text": "ImmuniWeb",
+      "link": "https://www.saashub.com/immuniweb?ref=featured&src=list"
+    },
+    {
+      "text": "uBlock Origin",
+      "link": "https://www.saashub.com/ublock-origin-alternatives"
+    },
+    {
+      "text": "SECDO",
+      "link": "https://www.saashub.com/secdo-alternatives"
+    },
+    {
+      "text": "New Relic APM",
+      "link": "https://www.saashub.com/new-relic-apm-alternatives"
+    },
+    {
+      "text": "XNSPY",
+      "link": "https://www.saashub.com/xnspy-alternatives"
+    },
+    {
+      "text": "Ivanti Unified Endpoint Manager",
+      "link": "https://www.saashub.com/ivanti-unified-endpoint-manager-alternatives"
+    },
+    {
+      "text": "Paessler",
+      "link": "https://www.saashub.com/paessler-alternatives"
+    },
+    {
+      "text": "Okta",
+      "link": "https://www.saashub.com/okta-alternatives"
+    },
+    {
+      "text": "Rippling",
+      "link": "https://www.saashub.com/rippling-alternatives"
+    },
+    {
+      "text": "Opendcim",
+      "link": "https://www.saashub.com/opendcim-alternatives"
+    },
+    {
+      "text": "AdBlock",
+      "link": "https://www.saashub.com/adblock-alternatives"
+    },
+    {
+      "text": "glances system monitoring",
+      "link": "https://www.saashub.com/glances-system-monitoring-alternatives"
+    },
+    {
+      "text": "Advanced IP Scanner",
+      "link": "https://www.saashub.com/advanced-ip-scanner-alternatives"
+    },
+    {
+      "text": "NIXStats",
+      "link": "https://www.saashub.com/nixstats-alternatives"
+    },
+    {
+      "text": "AirDroid Business",
+      "link": "https://www.saashub.com/airdroid-business?ref=featured&src=list"
+    },
+    {
+      "text": "Pandora FMS",
+      "link": "https://www.saashub.com/pandora-fms-alternatives"
+    },
+    {
+      "text": "iShredder",
+      "link": "https://www.saashub.com/ishredder-alternatives"
+    },
+    {
+      "text": "MiniTool Power Data Recovery",
+      "link": "https://www.saashub.com/minitool-power-data-recovery-alternatives"
+    },
+    {
+      "text": "CleanMyMac X",
+      "link": "https://www.saashub.com/cleanmymac-x-alternatives"
+    },
+    {
+      "text": "Lookout",
+      "link": "https://www.saashub.com/lookout-alternatives"
+    },
+    {
+      "text": "Cylance",
+      "link": "https://www.saashub.com/cylance-alternatives"
+    },
+    {
+      "text": "Uptime.com",
+      "link": "https://www.saashub.com/uptime-com-alternatives"
+    },
+    {
+      "text": "Comodo Firewall",
+      "link": "https://www.saashub.com/comodo-firewall-alternatives"
+    },
+    {
+      "text": "Adblock Plus",
+      "link": "https://www.saashub.com/adblock-plus-alternatives"
+    },
+    {
+      "text": "Accubattery",
+      "link": "https://www.saashub.com/accubattery-alternatives"
+    },
+    {
+      "text": "Docker Hub",
+      "link": "https://www.saashub.com/docker-hub-alternatives"
+    },
+    {
+      "text": "Lansweeper",
+      "link": "https://www.saashub.com/lansweeper-alternatives"
+    },
+    {
+      "text": "Oracle IT Service Management Suite",
+      "link": "https://www.saashub.com/oracle-it-service-management-suite-alternatives"
+    },
+    {
+      "text": "Cyclr",
+      "link": "https://www.saashub.com/cyclr?ref=featured&src=list"
+    },
+    {
+      "text": "SigNoz",
+      "link": "https://www.saashub.com/signoz-alternatives"
+    },
+    {
+      "text": "nginx",
+      "link": "https://www.saashub.com/nginx-alternatives"
+    },
+    {
+      "text": "Hard Disk Sentinel",
+      "link": "https://www.saashub.com/hard-disk-sentinel-alternatives"
+    },
+    {
+      "text": "MxToolBox",
+      "link": "https://www.saashub.com/mxtoolbox-alternatives"
+    },
+    {
+      "text": "Panda Security",
+      "link": "https://www.saashub.com/panda-security-alternatives"
+    },
+    {
+      "text": "HetrixTools",
+      "link": "https://www.saashub.com/hetrixtools-alternatives"
+    },
+    {
+      "text": "Eraser",
+      "link": "https://www.saashub.com/eraser-alternatives"
+    },
+    {
+      "text": "Fing",
+      "link": "https://www.saashub.com/fing-alternatives"
+    },
+    {
+      "text": "OpenVAS",
+      "link": "https://www.saashub.com/openvas-alternatives"
+    },
+    {
+      "text": "BigPanda",
+      "link": "https://www.saashub.com/bigpanda-alternatives"
+    },
+    {
+      "text": "Authentic8 Silo",
+      "link": "https://www.saashub.com/authentic8-silo-alternatives"
+    },
+    {
+      "text": "SmokePing",
+      "link": "https://www.saashub.com/smokeping-alternatives"
+    },
+    {
+      "text": "Snusbase",
+      "link": "https://www.saashub.com/snusbase-alternatives"
+    },
+    {
+      "text": "Netumo",
+      "link": "https://www.saashub.com/netumo?ref=featured&src=list"
+    },
+    {
+      "text": "OpenNMS",
+      "link": "https://www.saashub.com/opennms-alternatives"
+    },
+    {
+      "text": "Enlight Pixaloop",
+      "link": "https://www.saashub.com/enlight-pixaloop-alternatives"
+    },
+    {
+      "text": "ThousandEyes",
+      "link": "https://www.saashub.com/thousandeyes-alternatives"
+    },
+    {
+      "text": "Traverse Monitoring",
+      "link": "https://www.saashub.com/traverse-monitoring-alternatives"
+    },
+    {
+      "text": "Boomi",
+      "link": "https://www.saashub.com/boomi-alternatives"
+    },
+    {
+      "text": "CrystalMark",
+      "link": "https://www.saashub.com/crystalmark-alternatives"
+    },
+    {
+      "text": "SAP PowerDesigner",
+      "link": "https://www.saashub.com/sap-powerdesigner-alternatives"
+    },
+    {
+      "text": "LeakCheck",
+      "link": "https://www.saashub.com/leakcheck-alternatives"
+    },
+    {
+      "text": "iperf",
+      "link": "https://www.saashub.com/iperf-alternatives"
+    },
+    {
+      "text": "coconutBattery",
+      "link": "https://www.saashub.com/coconutbattery-alternatives"
+    },
+    {
+      "text": "WebTitan",
+      "link": "https://www.saashub.com/webtitan-alternatives"
+    },
+    {
+      "text": "Duo Security",
+      "link": "https://www.saashub.com/duo-security-alternatives"
+    },
+    {
+      "text": "GhostProject.fr",
+      "link": "https://www.saashub.com/ghostproject-fr-alternatives"
+    },
+    {
+      "text": "ImmuniWeb",
+      "link": "https://www.saashub.com/immuniweb?ref=featured&src=list"
+    },
+    {
+      "text": "Monitis",
+      "link": "https://www.saashub.com/monitis-alternatives"
+    },
+    {
+      "text": "Egnyte",
+      "link": "https://www.saashub.com/egnyte-alternatives"
+    },
+    {
+      "text": "Darktrace",
+      "link": "https://www.saashub.com/darktrace-alternatives"
+    },
+    {
+      "text": "SponsorBlock",
+      "link": "https://www.saashub.com/sponsorblock-alternatives"
+    },
+    {
+      "text": "Control-m",
+      "link": "https://www.saashub.com/control-m-alternatives"
+    },
+    {
+      "text": "CoreCtrl",
+      "link": "https://www.saashub.com/corectrl-alternatives"
+    },
+    {
+      "text": "Pulseway",
+      "link": "https://www.saashub.com/pulseway-alternatives"
+    },
+    {
+      "text": "NAKIVO Backup & Replication",
+      "link": "https://www.saashub.com/nakivo-backup-and-replication-alternatives"
+    },
+    {
+      "text": "Healthchecks.io",
+      "link": "https://www.saashub.com/healthchecks-io-alternatives"
+    },
+    {
+      "text": "logit.io",
+      "link": "https://www.saashub.com/logit-io-alternatives"
+    },
+    {
+      "text": "MiniTool Partition Wizard",
+      "link": "https://www.saashub.com/minitool-partition-wizard-alternatives"
+    },
+    {
+      "text": "Barracuda CloudGen Firewall",
+      "link": "https://www.saashub.com/barracuda-cloudgen-firewall-alternatives"
+    },
+    {
+      "text": "DU Battery Saver",
+      "link": "https://www.saashub.com/du-battery-saver-alternatives"
+    },
+    {
+      "text": "Safetica",
+      "link": "https://www.saashub.com/safetica?ref=featured&src=list"
+    },
+    {
+      "text": "Cisco Talos",
+      "link": "https://www.saashub.com/cisco-talos-alternatives"
+    },
+    {
+      "text": "LNAV",
+      "link": "https://www.saashub.com/lnav-alternatives"
+    },
+    {
+      "text": "Acronis Backup and Recovery",
+      "link": "https://www.saashub.com/acronis-backup-and-recovery-alternatives"
+    },
+    {
+      "text": "Nutanix Beam",
+      "link": "https://www.saashub.com/nutanix-beam-alternatives"
+    }
+  ]
 }
