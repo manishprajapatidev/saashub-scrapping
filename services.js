@@ -2,7 +2,7 @@ const puppeteer = require('puppeteer')
 const fs = require('fs')
 
 ;(async () => {
-	const browser = await puppeteer.launch({ headless: false })
+	const browser = await puppeteer.launch({ headless: 'new' })
 
 	try {
 		const rawData = fs.readFileSync('data.json')
@@ -35,7 +35,7 @@ const fs = require('fs')
 					}
 				}
 
-				const categoryName = document.querySelector('.level-y').textContent.trim()
+				const categoryName = document.querySelector('h1.level-y').textContent.trim() ?? ''
 				const anchorlements = document.querySelectorAll('ol.services-list li h3.title a')
 
 				for (let i = 0; i < anchorlements.length; i++) {

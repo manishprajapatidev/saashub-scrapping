@@ -1,5 +1,5 @@
 {
-  "categoryName": "",
+  "categoryName": "Developer Tools Software",
   "services": [
     {
       "text": "Tailwind CSS",
@@ -10,8 +10,8 @@
       "link": "https://www.saashub.com/next-js-alternatives"
     },
     {
-      "text": "TidyCal",
-      "link": "https://www.saashub.com/tidycal?ref=featured&src="
+      "text": "PiCal App",
+      "link": "https://www.saashub.com/pical-app?ref=featured&src="
     },
     {
       "text": "Firebase",
@@ -66,8 +66,8 @@
       "link": "https://www.saashub.com/github-alternatives"
     },
     {
-      "text": "Flagsmith",
-      "link": "https://www.saashub.com/flagsmith?ref=featured&src=list"
+      "text": "Project Burndown",
+      "link": "https://www.saashub.com/project-burndown?ref=featured&src=list"
     },
     {
       "text": "ExpressJS",
@@ -122,8 +122,8 @@
       "link": "https://www.saashub.com/bootstrap-alternatives"
     },
     {
-      "text": "Flagsmith",
-      "link": "https://www.saashub.com/flagsmith?ref=featured&src=list"
+      "text": "TidyCal",
+      "link": "https://www.saashub.com/tidycal?ref=featured&src=list"
     },
     {
       "text": "GitHub Student Developer Pack",
@@ -178,8 +178,8 @@
       "link": "https://www.saashub.com/render-alternatives"
     },
     {
-      "text": "Ayanza",
-      "link": "https://www.saashub.com/ayanza?ref=featured&src=list"
+      "text": "FluentPro Backup",
+      "link": "https://www.saashub.com/fluentpro-backup?ref=featured&src=list"
     },
     {
       "text": "Retool",
@@ -234,8 +234,8 @@
       "link": "https://www.saashub.com/learn-git-branching-alternatives"
     },
     {
-      "text": "Cohesive AI",
-      "link": "https://www.saashub.com/cohesive-ai?ref=featured&src=list"
+      "text": "LiveSession",
+      "link": "https://www.saashub.com/livesession?ref=featured&src=list"
     },
     {
       "text": "Oh My Zsh",
@@ -290,8 +290,8 @@
       "link": "https://www.saashub.com/dashboard-ui-kit-alternatives"
     },
     {
-      "text": "Flagsmith",
-      "link": "https://www.saashub.com/flagsmith?ref=featured&src=list"
+      "text": "RealityMAX",
+      "link": "https://www.saashub.com/realitymax?ref=featured&src=list"
     },
     {
       "text": "CodeMyUI",
@@ -346,8 +346,8 @@
       "link": "https://www.saashub.com/kite-alternatives"
     },
     {
-      "text": "FluentPro Backup",
-      "link": "https://www.saashub.com/fluentpro-backup?ref=featured&src=list"
+      "text": "Cohesive AI",
+      "link": "https://www.saashub.com/cohesive-ai?ref=featured&src=list"
     },
     {
       "text": "zeroqode",
@@ -402,8 +402,8 @@
       "link": "https://www.saashub.com/mitmproxy-alternatives"
     },
     {
-      "text": "Cohesive AI",
-      "link": "https://www.saashub.com/cohesive-ai?ref=featured&src=list"
+      "text": "NextBrain AI",
+      "link": "https://www.saashub.com/nextbrain-ai?ref=featured&src=list"
     },
     {
       "text": "Material-UI",
@@ -446,20 +446,20 @@
       "link": "https://www.saashub.com/amazon-ecs-alternatives"
     },
     {
-      "text": "Pro Git",
-      "link": "https://www.saashub.com/pro-git-alternatives"
-    },
-    {
       "text": "Flatlogic",
       "link": "https://www.saashub.com/flatlogic-alternatives"
+    },
+    {
+      "text": "Pro Git",
+      "link": "https://www.saashub.com/pro-git-alternatives"
     },
     {
       "text": "GRUB",
       "link": "https://www.saashub.com/grub-alternatives"
     },
     {
-      "text": "Flagsmith",
-      "link": "https://www.saashub.com/flagsmith?ref=featured&src=list"
+      "text": "SmartWindows.app",
+      "link": "https://www.saashub.com/smartwindows-app?ref=featured&src=list"
     },
     {
       "text": "Ray.so",
@@ -514,8 +514,8 @@
       "link": "https://www.saashub.com/aws-fargate-alternatives"
     },
     {
-      "text": "PiCal App",
-      "link": "https://www.saashub.com/pical-app?ref=featured&src=list"
+      "text": "Sup! Standup Bot",
+      "link": "https://www.saashub.com/sup-standup-bot?ref=featured&src=list"
     },
     {
       "text": "Microsoft Visual Studio",
@@ -570,8 +570,8 @@
       "link": "https://www.saashub.com/polypane-alternatives"
     },
     {
-      "text": "Flagsmith",
-      "link": "https://www.saashub.com/flagsmith?ref=featured&src=list"
+      "text": "Hive",
+      "link": "https://www.saashub.com/hive?ref=featured&src=list"
     },
     {
       "text": "GNU Guix",
@@ -626,8 +626,8 @@
       "link": "https://www.saashub.com/snipper-ml-alternatives"
     },
     {
-      "text": "SmartWindows.app",
-      "link": "https://www.saashub.com/smartwindows-app?ref=featured&src=list"
+      "text": "Flagsmith",
+      "link": "https://www.saashub.com/flagsmith?ref=featured&src=list"
     },
     {
       "text": "Kubeless",
@@ -658,16 +658,16 @@
       "link": "https://www.saashub.com/streamlit-alternatives"
     },
     {
-      "text": "React Boilerplate",
-      "link": "https://www.saashub.com/react-boilerplate-alternatives"
-    },
-    {
       "text": "TestFlight",
       "link": "https://www.saashub.com/testflight-alternatives"
     },
     {
       "text": "SaaS Boilerplate",
       "link": "https://www.saashub.com/saas-boilerplate-alternatives"
+    },
+    {
+      "text": "React Boilerplate",
+      "link": "https://www.saashub.com/react-boilerplate-alternatives"
     },
     {
       "text": "MockServer",
@@ -682,8 +682,8 @@
       "link": "https://www.saashub.com/cloudinary-for-video-alternatives"
     },
     {
-      "text": "PiCal App",
-      "link": "https://www.saashub.com/pical-app?ref=featured&src=list"
+      "text": "Project Burndown",
+      "link": "https://www.saashub.com/project-burndown?ref=featured&src=list"
     },
     {
       "text": "Framer",
@@ -738,8 +738,8 @@
       "link": "https://www.saashub.com/buefy-alternatives"
     },
     {
-      "text": "Monitask",
-      "link": "https://www.saashub.com/monitask?ref=featured&src=list"
+      "text": "Vondy",
+      "link": "https://www.saashub.com/vondy?ref=featured&src=list"
     },
     {
       "text": "Hoverify",
@@ -758,10 +758,6 @@
       "link": "https://www.saashub.com/spring-framework-alternatives"
     },
     {
-      "text": "Divjoy",
-      "link": "https://www.saashub.com/divjoy-alternatives"
-    },
-    {
       "text": "StreamElements",
       "link": "https://www.saashub.com/streamelements-alternatives"
     },
@@ -772,6 +768,10 @@
     {
       "text": "Archbee.io",
       "link": "https://www.saashub.com/archbee-io-alternatives"
+    },
+    {
+      "text": "Divjoy",
+      "link": "https://www.saashub.com/divjoy-alternatives"
     },
     {
       "text": "Webpack",
@@ -794,8 +794,8 @@
       "link": "https://www.saashub.com/nightbot-alternatives"
     },
     {
-      "text": "Monitask",
-      "link": "https://www.saashub.com/monitask?ref=featured&src=list"
+      "text": "Flagsmith",
+      "link": "https://www.saashub.com/flagsmith?ref=featured&src=list"
     },
     {
       "text": "Shuffle for Tailwind CSS",
@@ -850,8 +850,8 @@
       "link": "https://www.saashub.com/appcelerator-alternatives"
     },
     {
-      "text": "Flagsmith",
-      "link": "https://www.saashub.com/flagsmith?ref=featured&src=list"
+      "text": "Assembly",
+      "link": "https://www.saashub.com/assembly?ref=featured&src=list"
     },
     {
       "text": "CSS Scan Pro",
@@ -894,6 +894,10 @@
       "link": "https://www.saashub.com/parse-server-alternatives"
     },
     {
+      "text": "Ant Design",
+      "link": "https://www.saashub.com/ant-design-alternatives"
+    },
+    {
       "text": "Contributions for GitHub",
       "link": "https://www.saashub.com/contributions-for-github-alternatives"
     },
@@ -902,12 +906,12 @@
       "link": "https://www.saashub.com/bootstrap-4-cheat-sheet-alternatives"
     },
     {
-      "text": "Devhints",
-      "link": "https://www.saashub.com/devhints-alternatives"
+      "text": "SmartWindows.app",
+      "link": "https://www.saashub.com/smartwindows-app?ref=featured&src=list"
     },
     {
-      "text": "Monitask",
-      "link": "https://www.saashub.com/monitask?ref=featured&src=list"
+      "text": "Devhints",
+      "link": "https://www.saashub.com/devhints-alternatives"
     },
     {
       "text": "Nakama",
@@ -942,10 +946,6 @@
       "link": "https://www.saashub.com/tailwind-css-play-alternatives"
     },
     {
-      "text": "Ant Design",
-      "link": "https://www.saashub.com/ant-design-alternatives"
-    },
-    {
       "text": "Bugfender",
       "link": "https://www.saashub.com/bugfender-alternatives"
     },
@@ -962,8 +962,64 @@
       "link": "https://www.saashub.com/redis-alternatives"
     },
     {
-      "text": "Assembly",
-      "link": "https://www.saashub.com/assembly?ref=featured&src=list"
+      "text": "TidyCal",
+      "link": "https://www.saashub.com/tidycal?ref=featured&src=list"
+    },
+    {
+      "text": "Docker Swarm",
+      "link": "https://www.saashub.com/docker-swarm-alternatives"
+    },
+    {
+      "text": "Docker Hub",
+      "link": "https://www.saashub.com/docker-hub-alternatives"
+    },
+    {
+      "text": "Mockoon",
+      "link": "https://www.saashub.com/mockoon-alternatives"
+    },
+    {
+      "text": "Visual BCD Editor",
+      "link": "https://www.saashub.com/visual-bcd-editor-alternatives"
+    },
+    {
+      "text": "LogTailApp",
+      "link": "https://www.saashub.com/logtailapp-alternatives"
+    },
+    {
+      "text": "EasyUEFI",
+      "link": "https://www.saashub.com/easyuefi-alternatives"
+    },
+    {
+      "text": "Google Cloud Run",
+      "link": "https://www.saashub.com/google-cloud-run-alternatives"
+    },
+    {
+      "text": "jHipster",
+      "link": "https://www.saashub.com/jhipster-alternatives"
+    },
+    {
+      "text": "Themesberg",
+      "link": "https://www.saashub.com/themesberg-alternatives"
+    },
+    {
+      "text": "Now UI Kit",
+      "link": "https://www.saashub.com/now-ui-kit-alternatives"
+    },
+    {
+      "text": "Webflow CMS",
+      "link": "https://www.saashub.com/webflow-cms-alternatives"
+    },
+    {
+      "text": "Snapcraft",
+      "link": "https://www.saashub.com/snapcraft-alternatives"
+    },
+    {
+      "text": "Redis",
+      "link": "https://www.saashub.com/redis-alternatives"
+    },
+    {
+      "text": "Sup! Standup Bot",
+      "link": "https://www.saashub.com/sup-standup-bot?ref=featured&src=list"
     },
     {
       "text": "Docker Swarm",
@@ -1018,8 +1074,8 @@
       "link": "https://www.saashub.com/nats-alternatives"
     },
     {
-      "text": "NextBrain AI",
-      "link": "https://www.saashub.com/nextbrain-ai?ref=featured&src=list"
+      "text": "Flagsmith",
+      "link": "https://www.saashub.com/flagsmith?ref=featured&src=list"
     },
     {
       "text": "Figma",
