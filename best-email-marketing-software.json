@@ -1,5 +1,5 @@
 {
-  "categoryName": "",
+  "categoryName": "Email Marketing Software",
   "services": [
     {
       "text": "MailChimp",
@@ -10,8 +10,8 @@
       "link": "https://www.saashub.com/brevo-alternatives"
     },
     {
-      "text": "Nureply",
-      "link": "https://www.saashub.com/nureply?ref=featured&src="
+      "text": "Notix.co",
+      "link": "https://www.saashub.com/notix-co?ref=featured&src="
     },
     {
       "text": "Campaign Monitor",
@@ -66,8 +66,8 @@
       "link": "https://www.saashub.com/vital-alternatives"
     },
     {
-      "text": "Warmup Inbox",
-      "link": "https://www.saashub.com/warmup-inbox?ref=featured&src=list"
+      "text": "Nureply",
+      "link": "https://www.saashub.com/nureply?ref=featured&src=list"
     },
     {
       "text": "AWeber",
@@ -122,20 +122,20 @@
       "link": "https://www.saashub.com/email-list-verify-alternatives"
     },
     {
-      "text": "MailReach.co",
-      "link": "https://www.saashub.com/mailreach-co?ref=featured&src=list"
+      "text": "Nureply",
+      "link": "https://www.saashub.com/nureply?ref=featured&src=list"
     },
     {
       "text": "ZeroBounce",
       "link": "https://www.saashub.com/zerobounce-alternatives"
     },
     {
-      "text": "Optmyzr",
-      "link": "https://www.saashub.com/optmyzr-alternatives"
-    },
-    {
       "text": "Snov.io",
       "link": "https://www.saashub.com/snov-io-alternatives"
+    },
+    {
+      "text": "Optmyzr",
+      "link": "https://www.saashub.com/optmyzr-alternatives"
     },
     {
       "text": "Affise",
@@ -178,8 +178,8 @@
       "link": "https://www.saashub.com/hubspot-marketing-hub-alternatives"
     },
     {
-      "text": "MailReach.co",
-      "link": "https://www.saashub.com/mailreach-co?ref=featured&src=list"
+      "text": "SendFox",
+      "link": "https://www.saashub.com/sendfox?ref=featured&src=list"
     },
     {
       "text": "ShoutOUT",
@@ -234,8 +234,8 @@
       "link": "https://www.saashub.com/really-good-emails-alternatives"
     },
     {
-      "text": "Warmup Inbox",
-      "link": "https://www.saashub.com/warmup-inbox?ref=featured&src=list"
+      "text": "Notix.co",
+      "link": "https://www.saashub.com/notix-co?ref=featured&src=list"
     },
     {
       "text": "Postmark",
@@ -290,8 +290,8 @@
       "link": "https://www.saashub.com/warmbox-ai-alternatives"
     },
     {
-      "text": "SendFox",
-      "link": "https://www.saashub.com/sendfox?ref=featured&src=list"
+      "text": "Outwrite.com",
+      "link": "https://www.saashub.com/outwrite-com?ref=featured&src=list"
     },
     {
       "text": "Mailman",
@@ -330,10 +330,6 @@
       "link": "https://www.saashub.com/htmlemail-io-alternatives"
     },
     {
-      "text": "Iterable",
-      "link": "https://www.saashub.com/iterable-alternatives"
-    },
-    {
       "text": "phpList",
       "link": "https://www.saashub.com/phplist-alternatives"
     },
@@ -346,8 +342,12 @@
       "link": "https://www.saashub.com/robly-alternatives"
     },
     {
-      "text": "SurveySparrow",
-      "link": "https://www.saashub.com/surveysparrow?ref=featured&src=list"
+      "text": "Iterable",
+      "link": "https://www.saashub.com/iterable-alternatives"
+    },
+    {
+      "text": "Warmup Inbox",
+      "link": "https://www.saashub.com/warmup-inbox?ref=featured&src=list"
     },
     {
       "text": "MooSend",
@@ -402,8 +402,8 @@
       "link": "https://www.saashub.com/mailwarm-alternatives"
     },
     {
-      "text": "Linnworks",
-      "link": "https://www.saashub.com/linnworks?ref=featured&src=list"
+      "text": "Warmup Inbox",
+      "link": "https://www.saashub.com/warmup-inbox?ref=featured&src=list"
     },
     {
       "text": "LinkTexting.com",
@@ -458,8 +458,8 @@
       "link": "https://www.saashub.com/unlayer-alternatives"
     },
     {
-      "text": "SendFox",
-      "link": "https://www.saashub.com/sendfox?ref=featured&src=list"
+      "text": "MailReach.co",
+      "link": "https://www.saashub.com/mailreach-co?ref=featured&src=list"
     },
     {
       "text": "Platformly",
@@ -470,12 +470,12 @@
       "link": "https://www.saashub.com/titanmlm-alternatives"
     },
     {
-      "text": "Keap",
-      "link": "https://www.saashub.com/keap-alternatives"
-    },
-    {
       "text": "Kickbox",
       "link": "https://www.saashub.com/kickbox-alternatives"
+    },
+    {
+      "text": "Keap",
+      "link": "https://www.saashub.com/keap-alternatives"
     },
     {
       "text": "Synthesio",
@@ -514,8 +514,8 @@
       "link": "https://www.saashub.com/mixxx-alternatives"
     },
     {
-      "text": "MailReach.co",
-      "link": "https://www.saashub.com/mailreach-co?ref=featured&src=list"
+      "text": "Warmup Inbox",
+      "link": "https://www.saashub.com/warmup-inbox?ref=featured&src=list"
     },
     {
       "text": "Clone Hero",
@@ -570,8 +570,8 @@
       "link": "https://www.saashub.com/rapidcomposer-alternatives"
     },
     {
-      "text": "KingSumo",
-      "link": "https://www.saashub.com/kingsumo?ref=featured&src=list"
+      "text": "Linnworks",
+      "link": "https://www.saashub.com/linnworks?ref=featured&src=list"
     },
     {
       "text": "SpyFu",
@@ -682,8 +682,8 @@
       "link": "https://www.saashub.com/find-email-address-alternatives"
     },
     {
-      "text": "SendFox",
-      "link": "https://www.saashub.com/sendfox?ref=featured&src=list"
+      "text": "Nureply",
+      "link": "https://www.saashub.com/nureply?ref=featured&src=list"
     },
     {
       "text": "Email Verification on Google Sheets",
@@ -738,8 +738,8 @@
       "link": "https://www.saashub.com/guitar-pro-7-alternatives"
     },
     {
-      "text": "KingSumo",
-      "link": "https://www.saashub.com/kingsumo?ref=featured&src=list"
+      "text": "Outwrite.com",
+      "link": "https://www.saashub.com/outwrite-com?ref=featured&src=list"
     },
     {
       "text": "Substack",
@@ -794,8 +794,8 @@
       "link": "https://www.saashub.com/odesi-alternatives"
     },
     {
-      "text": "Nureply",
-      "link": "https://www.saashub.com/nureply?ref=featured&src=list"
+      "text": "Agiliron",
+      "link": "https://www.saashub.com/agiliron?ref=featured&src=list"
     },
     {
       "text": "UltimateGuitar.com",
@@ -804,10 +804,6 @@
     {
       "text": "n-Track Studio",
       "link": "https://www.saashub.com/n-track-studio-alternatives"
-    },
-    {
-      "text": "SALESmanago",
-      "link": "https://www.saashub.com/salesmanago-alternatives"
     },
     {
       "text": "Pistachio Email Templates",
@@ -824,6 +820,10 @@
     {
       "text": "Find That Email",
       "link": "https://www.saashub.com/find-that-email-alternatives"
+    },
+    {
+      "text": "SALESmanago",
+      "link": "https://www.saashub.com/salesmanago-alternatives"
     },
     {
       "text": "Kontakt",
@@ -906,8 +906,8 @@
       "link": "https://www.saashub.com/uvi-falcon-alternatives"
     },
     {
-      "text": "Agiliron",
-      "link": "https://www.saashub.com/agiliron?ref=featured&src=list"
+      "text": "SendFox",
+      "link": "https://www.saashub.com/sendfox?ref=featured&src=list"
     },
     {
       "text": "Intranet Quorum",
@@ -962,8 +962,8 @@
       "link": "https://www.saashub.com/reslice-alternatives"
     },
     {
-      "text": "MailReach.co",
-      "link": "https://www.saashub.com/mailreach-co?ref=featured&src=list"
+      "text": "Nureply",
+      "link": "https://www.saashub.com/nureply?ref=featured&src=list"
     },
     {
       "text": "StepMania",
@@ -1018,8 +1018,8 @@
       "link": "https://www.saashub.com/mailivery-alternatives"
     },
     {
-      "text": "MailReach.co",
-      "link": "https://www.saashub.com/mailreach-co?ref=featured&src=list"
+      "text": "Nureply",
+      "link": "https://www.saashub.com/nureply?ref=featured&src=list"
     },
     {
       "text": "Retargeting",

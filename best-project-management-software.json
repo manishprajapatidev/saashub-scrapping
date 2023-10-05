@@ -1,5 +1,5 @@
 {
-  "categoryName": "",
+  "categoryName": "Project Management Software",
   "services": [
     {
       "text": "Asana",
@@ -66,8 +66,8 @@
       "link": "https://www.saashub.com/bitrix24-alternatives"
     },
     {
-      "text": "Project Burndown",
-      "link": "https://www.saashub.com/project-burndown?ref=featured&src=list"
+      "text": "Sup! Standup Bot",
+      "link": "https://www.saashub.com/sup-standup-bot?ref=featured&src=list"
     },
     {
       "text": "Chess.com",
@@ -122,8 +122,8 @@
       "link": "https://www.saashub.com/breeze-alternatives"
     },
     {
-      "text": "CobbleStone Software",
-      "link": "https://www.saashub.com/cobblestone-software?ref=featured&src=list"
+      "text": "FileInvite",
+      "link": "https://www.saashub.com/fileinvite?ref=featured&src=list"
     },
     {
       "text": "Notion",
@@ -178,8 +178,8 @@
       "link": "https://www.saashub.com/proworkflow-alternatives"
     },
     {
-      "text": "Project Burndown",
-      "link": "https://www.saashub.com/project-burndown?ref=featured&src=list"
+      "text": "Sup! Standup Bot",
+      "link": "https://www.saashub.com/sup-standup-bot?ref=featured&src=list"
     },
     {
       "text": "Workfront",
@@ -234,8 +234,8 @@
       "link": "https://www.saashub.com/confluence-alternatives"
     },
     {
-      "text": "Project Burndown",
-      "link": "https://www.saashub.com/project-burndown?ref=featured&src=list"
+      "text": "Monitask",
+      "link": "https://www.saashub.com/monitask?ref=featured&src=list"
     },
     {
       "text": "Flow",
@@ -246,12 +246,12 @@
       "link": "https://www.saashub.com/github-alternatives"
     },
     {
-      "text": "MINDBODY",
-      "link": "https://www.saashub.com/mindbody-alternatives"
-    },
-    {
       "text": "Mavenlink",
       "link": "https://www.saashub.com/mavenlink-alternatives"
+    },
+    {
+      "text": "MINDBODY",
+      "link": "https://www.saashub.com/mindbody-alternatives"
     },
     {
       "text": "RingCentral Video",
@@ -270,12 +270,12 @@
       "link": "https://www.saashub.com/corecon-alternatives"
     },
     {
-      "text": "Freshservice",
-      "link": "https://www.saashub.com/freshservice-alternatives"
-    },
-    {
       "text": "Things",
       "link": "https://www.saashub.com/things-alternatives"
+    },
+    {
+      "text": "Freshservice",
+      "link": "https://www.saashub.com/freshservice-alternatives"
     },
     {
       "text": "Taskade",
@@ -286,28 +286,28 @@
       "link": "https://www.saashub.com/ms-sharepoint-alternatives"
     },
     {
-      "text": "Podio",
-      "link": "https://www.saashub.com/podio-alternatives"
-    },
-    {
-      "text": "Project Burndown",
-      "link": "https://www.saashub.com/project-burndown?ref=featured&src=list"
-    },
-    {
       "text": "KRYSTAL - Document Management System",
       "link": "https://www.saashub.com/krystal-document-management-system-alternatives"
+    },
+    {
+      "text": "Ayanza",
+      "link": "https://www.saashub.com/ayanza?ref=featured&src=list"
+    },
+    {
+      "text": "Podio",
+      "link": "https://www.saashub.com/podio-alternatives"
     },
     {
       "text": "Creativity 365",
       "link": "https://www.saashub.com/creativity-365-alternatives"
     },
     {
-      "text": "Bizagi",
-      "link": "https://www.saashub.com/bizagi-alternatives"
-    },
-    {
       "text": "Autodesk BIM 360",
       "link": "https://www.saashub.com/autodesk-bim-360-alternatives"
+    },
+    {
+      "text": "Bizagi",
+      "link": "https://www.saashub.com/bizagi-alternatives"
     },
     {
       "text": "productboard",
@@ -346,8 +346,8 @@
       "link": "https://www.saashub.com/microsoft-project-alternatives"
     },
     {
-      "text": "Sup! Standup Bot",
-      "link": "https://www.saashub.com/sup-standup-bot?ref=featured&src=list"
+      "text": "Ayanza",
+      "link": "https://www.saashub.com/ayanza?ref=featured&src=list"
     },
     {
       "text": "SquidHub",
@@ -402,8 +402,8 @@
       "link": "https://www.saashub.com/sap-grc-alternatives"
     },
     {
-      "text": "Assembly",
-      "link": "https://www.saashub.com/assembly?ref=featured&src=list"
+      "text": "Labourly",
+      "link": "https://www.saashub.com/labourly?ref=featured&src=list"
     },
     {
       "text": "Nifty",
@@ -438,12 +438,12 @@
       "link": "https://www.saashub.com/any-do-alternatives"
     },
     {
-      "text": "GanttProject",
-      "link": "https://www.saashub.com/ganttproject-alternatives"
-    },
-    {
       "text": "Oracle Primavera",
       "link": "https://www.saashub.com/oracle-primavera-alternatives"
+    },
+    {
+      "text": "GanttProject",
+      "link": "https://www.saashub.com/ganttproject-alternatives"
     },
     {
       "text": "DESTINI Estimator",
@@ -458,8 +458,8 @@
       "link": "https://www.saashub.com/ora-alternatives"
     },
     {
-      "text": "Labourly",
-      "link": "https://www.saashub.com/labourly?ref=featured&src=list"
+      "text": "Project Burndown",
+      "link": "https://www.saashub.com/project-burndown?ref=featured&src=list"
     },
     {
       "text": "BitBucket",
@@ -478,12 +478,12 @@
       "link": "https://www.saashub.com/bluebeam-revu-alternatives"
     },
     {
-      "text": "K2",
-      "link": "https://www.saashub.com/k2-alternatives"
-    },
-    {
       "text": "ScreenCloud",
       "link": "https://www.saashub.com/screencloud-alternatives"
+    },
+    {
+      "text": "K2",
+      "link": "https://www.saashub.com/k2-alternatives"
     },
     {
       "text": "Aha",
@@ -498,10 +498,6 @@
       "link": "https://www.saashub.com/esti-mate-software-version-4-5-alternatives"
     },
     {
-      "text": "Huddle",
-      "link": "https://www.saashub.com/huddle-alternatives"
-    },
-    {
       "text": "Microsoft Office Excel",
       "link": "https://www.saashub.com/microsoft-office-excel-alternatives"
     },
@@ -510,12 +506,16 @@
       "link": "https://www.saashub.com/google-sheets-alternatives"
     },
     {
+      "text": "Huddle",
+      "link": "https://www.saashub.com/huddle-alternatives"
+    },
+    {
       "text": "DISQUS",
       "link": "https://www.saashub.com/disqus-alternatives"
     },
     {
-      "text": "Project Burndown",
-      "link": "https://www.saashub.com/project-burndown?ref=featured&src=list"
+      "text": "Ayanza",
+      "link": "https://www.saashub.com/ayanza?ref=featured&src=list"
     },
     {
       "text": "Hollow Knight",
@@ -546,12 +546,12 @@
       "link": "https://www.saashub.com/workplace-by-facebook-alternatives"
     },
     {
-      "text": "ReclaimAI",
-      "link": "https://www.saashub.com/reclaimai-alternatives"
-    },
-    {
       "text": "Microsoft To-Do",
       "link": "https://www.saashub.com/microsoft-to-do-alternatives"
+    },
+    {
+      "text": "ReclaimAI",
+      "link": "https://www.saashub.com/reclaimai-alternatives"
     },
     {
       "text": "Org mode",
@@ -570,8 +570,8 @@
       "link": "https://www.saashub.com/sunsama-alternatives"
     },
     {
-      "text": "Hive",
-      "link": "https://www.saashub.com/hive?ref=featured&src=list"
+      "text": "Project Burndown",
+      "link": "https://www.saashub.com/project-burndown?ref=featured&src=list"
     },
     {
       "text": "OneNote",
@@ -646,16 +646,16 @@
       "link": "https://www.saashub.com/intellect-alternatives"
     },
     {
+      "text": "Nintex",
+      "link": "https://www.saashub.com/nintex-alternatives"
+    },
+    {
       "text": "eTakeoff",
       "link": "https://www.saashub.com/etakeoff-alternatives"
     },
     {
       "text": "Taskworld",
       "link": "https://www.saashub.com/taskworld-alternatives"
-    },
-    {
-      "text": "Nintex",
-      "link": "https://www.saashub.com/nintex-alternatives"
     },
     {
       "text": "Microsoft 365",
@@ -682,8 +682,8 @@
       "link": "https://www.saashub.com/dropbox-alternatives"
     },
     {
-      "text": "PackageX Receive",
-      "link": "https://www.saashub.com/packagex-receive?ref=featured&src=list"
+      "text": "Hive",
+      "link": "https://www.saashub.com/hive?ref=featured&src=list"
     },
     {
       "text": "ProcessMaker",
@@ -722,10 +722,6 @@
       "link": "https://www.saashub.com/trac-alternatives"
     },
     {
-      "text": "LiquidPlanner",
-      "link": "https://www.saashub.com/liquidplanner-alternatives"
-    },
-    {
       "text": "PresentationPoint iPoint",
       "link": "https://www.saashub.com/presentationpoint-ipoint-alternatives"
     },
@@ -738,8 +734,12 @@
       "link": "https://www.saashub.com/appsheet-alternatives"
     },
     {
-      "text": "Sup! Standup Bot",
-      "link": "https://www.saashub.com/sup-standup-bot?ref=featured&src=list"
+      "text": "LiquidPlanner",
+      "link": "https://www.saashub.com/liquidplanner-alternatives"
+    },
+    {
+      "text": "NinjaOne",
+      "link": "https://www.saashub.com/ninjaone?ref=featured&src=list"
     },
     {
       "text": "Roadmap",
@@ -748,10 +748,6 @@
     {
       "text": "VizanSign",
       "link": "https://www.saashub.com/vizansign-alternatives"
-    },
-    {
-      "text": "Scoro",
-      "link": "https://www.saashub.com/scoro-alternatives"
     },
     {
       "text": "LogicManager",
@@ -764,6 +760,10 @@
     {
       "text": "Propel",
       "link": "https://www.saashub.com/propel-alternatives"
+    },
+    {
+      "text": "Scoro",
+      "link": "https://www.saashub.com/scoro-alternatives"
     },
     {
       "text": "Pipedrive",
@@ -782,10 +782,6 @@
       "link": "https://www.saashub.com/microsoft-operations-management-suite-alternatives"
     },
     {
-      "text": "ClubExpress",
-      "link": "https://www.saashub.com/clubexpress-alternatives"
-    },
-    {
       "text": "Loandisk",
       "link": "https://www.saashub.com/loandisk-alternatives"
     },
@@ -794,8 +790,12 @@
       "link": "https://www.saashub.com/redbooth-alternatives"
     },
     {
-      "text": "Kirmada",
-      "link": "https://www.saashub.com/kirmada?ref=featured&src=list"
+      "text": "ClubExpress",
+      "link": "https://www.saashub.com/clubexpress-alternatives"
+    },
+    {
+      "text": "Hive",
+      "link": "https://www.saashub.com/hive?ref=featured&src=list"
     },
     {
       "text": "MetricStream",
@@ -850,8 +850,8 @@
       "link": "https://www.saashub.com/etq-reliance-alternatives"
     },
     {
-      "text": "Hive",
-      "link": "https://www.saashub.com/hive?ref=featured&src=list"
+      "text": "KloudMate",
+      "link": "https://www.saashub.com/kloudmate?ref=featured&src=list"
     },
     {
       "text": "Fellow.app",
@@ -906,8 +906,8 @@
       "link": "https://www.saashub.com/taskwarrior-alternatives"
     },
     {
-      "text": "Insightful.io",
-      "link": "https://www.saashub.com/insightful-io?ref=featured&src=list"
+      "text": "ComplyCube",
+      "link": "https://www.saashub.com/complycube?ref=featured&src=list"
     },
     {
       "text": "Dynalist",
@@ -954,20 +954,20 @@
       "link": "https://www.saashub.com/checkvist-alternatives"
     },
     {
-      "text": "Virtuagym",
-      "link": "https://www.saashub.com/virtuagym-alternatives"
-    },
-    {
       "text": "Zen Planner",
       "link": "https://www.saashub.com/zen-planner-alternatives"
+    },
+    {
+      "text": "ProdPad",
+      "link": "https://www.saashub.com/prodpad-alternatives"
     },
     {
       "text": "Project Burndown",
       "link": "https://www.saashub.com/project-burndown?ref=featured&src=list"
     },
     {
-      "text": "ProdPad",
-      "link": "https://www.saashub.com/prodpad-alternatives"
+      "text": "Virtuagym",
+      "link": "https://www.saashub.com/virtuagym-alternatives"
     },
     {
       "text": "Sciforma",
