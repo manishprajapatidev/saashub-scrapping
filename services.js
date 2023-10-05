@@ -2,7 +2,7 @@ const puppeteer = require('puppeteer')
 const fs = require('fs')
 
 ;(async () => {
-	const browser = await puppeteer.launch({ headless: false })
+	const browser = await puppeteer.launch({ headless: true })
 
 	try {
 		const rawData = fs.readFileSync('data.json')
@@ -11,7 +11,7 @@ const fs = require('fs')
 		for (const item of data) {
 			const page = await browser.newPage()
 			const pathName = item.link.split('/').pop()
-
+			console.log('pathName', pathName)
 			await page.goto(item.link)
 
 			const textUrls = await page.evaluate(async () => {
